@@ -1,0 +1,1 @@
+((-1, 906447)) => <p>Can someone send code for precalculation in <a href="/contest/1671/problem/F" title="Educational Codeforces Round 127 (Rated for Div. 2)">1671F - Permutation Counting</a> ?</p>

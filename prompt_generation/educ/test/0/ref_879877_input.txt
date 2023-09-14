@@ -1,0 +1,1 @@
+((-1, 879877)) => <p>Problem C can be solved in backward direction by merging the overlapping intervals in <strong>O(n)</strong>. <submission link>  </p>

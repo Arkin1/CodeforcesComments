@@ -1,0 +1,4 @@
+((-1, 906367)) => <p>How to come up with alternative solution of F? </p>
+((906367, 906584)) => <p> <submission link> </p> <p>Edit: Sorry i posted this solution inadvertently. I was checking the editorial for another contest also [at the same time]. this perplexed me [i think]</p>
+((906584, 906649)) => <p>It's not that contest</p>
+((906649, 906854)) => <p>Yup!</p>

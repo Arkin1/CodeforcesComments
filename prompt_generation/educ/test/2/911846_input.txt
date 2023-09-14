@@ -1,0 +1,2 @@
+((-1, 911846)) => <p>In problem E, can anyone explain how are we checking the equality of equivalence classes using just the lexicographically smallest string in preorder?</p>
+((911846, 920223)) => <p>If you were able to understand could you please explain?</p>

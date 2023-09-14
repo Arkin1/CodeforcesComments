@@ -1,0 +1,2 @@
+((-1, 889785)) => <p>In problem D, why is the answer equal to k to the power of valid queries that have at least one cell belong to them? I am unable to understand. Why is "to the power"?</p>
+((889785, 889862)) => <p>Because for each valid query you have k different choices and these choices are independent to the ones that selected so far.</p>

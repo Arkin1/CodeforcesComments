@@ -1,0 +1,1 @@
+((-1, 940314)) => <p>F can be solved more easily by using Stirling Number and Descending Power.</p>

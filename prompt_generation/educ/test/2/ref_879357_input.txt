@@ -1,0 +1,3 @@
+((-1, 879357)) => <p>I have a little problem about problem F: Why should we add $$$k\cdot n^{k-1}\cdot x\cdot L$$$ to the answer instead of $$$n^k\cdot x\cdot L$$$?</p>
+((879357, 879377)) => <p>The multiplier $$$k \cdot n^{k-1}$$$ is the total number of times an element is chosen over all ways to choose elements on the iterations. It can be treated as the number of occurrences of some integer $$$i$$$ in all $$$k$$$-element vectors, where each element is in $$$[1, n]$$$. It is $$$k \cdot n^{k-1}$$$ since the total number of integers in these vectors is $$$k \cdot n^k$$$, and each of $$$n$$$ integers occurs the same number of times.</p>
+((879377, 879381)) => <p>I see.Thank you.</p>

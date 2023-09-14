@@ -1,0 +1,1 @@
+((-1, 914249)) => <p>My submission for problem D.  <submission link>  Anybody please tell me where and why the code fails</p>

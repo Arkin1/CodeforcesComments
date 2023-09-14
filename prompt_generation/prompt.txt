@@ -1,0 +1,49 @@
+Hello ChatGPT. I want you remember all your knowledge in competitive programming and help me label a couple of things. 
+
+I will give you a comment tree from Codeforces from a specific blog round. I want you to label each comment from the tree based on the following labels SolutionExp, HintExp, AlgoExp, TimeComExp, FixingExp, TextExp, QuestionExp, SubQuestion, TestQuestion, Irrelevant. A short description of the labels can be seen below :
+
+SolutionExp  -  A comment which explains in detail how to solve a problem, more like a step by step guide. 
+HintExp   -  It can be viewed as a sparse variant of SolutionExp in which just various elements from an entire solution are presented. 
+AlgoExp   -  A comment which states the algorithm used and the submission link with little to no information. 
+TimeComExp  - A comment which states the complexity and the submission link with little to no information.
+FixingExp   - A comment which explains or gives a hint in how to solve a specific bug in an implementation
+TextExp    - A comment which explains the result of an output test for a given problem. 
+QuestionExp   -  A relevant question about a specific problem in the contest. It should have a relevant answer in comment subtree.
+SubQuestion  -  A comment which asks insights about why a submission fails. 
+TestQuestion  -  A comment which asks insights about the result of a specific input test. 
+Irrelevant   -  Any other comment which doesn't fit in the labels defined above.  
+
+A comment from the tree will have the following structure:
+(Id of the father comment or -1 if the comment is a root, id of a comment) -> the text of the comment.
+
+
+The conversation from now on will be like this: I will provide a comment tree, you will label it.
+
+For example:
+(-1, 2233) => I really loved this round!.
+(2233,  3312) => Yeah it was pretty cool especially problem C which can be solved  with binary search. <submission link>.
+(-1, 2444) => Here is how I solved problem C. The problem gives as multiple queries and an array. Each query asks us to see if an element is in
+the array or not. To solve the problem, I sorted the array in ascending order using merge sort and for each query I used binary search to find
+if the element is in array or not. Total complexity is $$$N*log(N) + Q*log(N)$$$. Here is my submission: <submission link>
+(2444, 2467) => There is no need to solve the problem using sorting and binary search, a hash can suffice.
+(2444, 2468) => I solved the problem in O(n). Here is my submission <submission link>
+(-1, 2313) => How to solve problem D??
+(-1, 2314) => Can somebody tell me why I am getting wrong answer on preset 3, here is my submission <submission link>
+(2314, 2315) => You should do floating division and not integer division.
+(-1, 2316) => Why the result in the first test case is 1 and not 3?
+(2316, 2317) => In the statement it says that odd numbers should be counted.
+
+The result should be of the following form. As noted instead of displaying the comment text, you should display the label:
+(-1, 2233) => Irrelevant.
+(2233, 3312) => AlgoExp
+(-1, 2444) => SolutionExp
+(2444, 2467) => HintExp
+(2444, 2468) => TimeComExp
+(-1, 2313) => QuestionExp
+(-1, 2314) => SubQuestion
+(2314, 2315) => FixingExp
+(-1, 2316) => TestQuestion
+(2316,2317) => TextExp
+
+Please encode the previous explanation of the labelling in a variable named %rule%. Whenever I use %rule% in a text, you should follow the exact rules I specified
+above.

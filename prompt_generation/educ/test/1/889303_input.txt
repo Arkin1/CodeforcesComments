@@ -1,0 +1,3 @@
+((-1, 889303)) => <p>Approach of D problem was great</p>
+((889303, 889318)) => <p>yup, somewhat similar to this question's approach( two contests ago) <a href="https://codeforces.com/problemset/problem/1638/D">https://codeforces.com/problemset/problem/1638/D</a></p>
+((889303, 901155)) => <p>It seems that many problems that are related to doing some specific operation could be done by inverting the whole process</p>

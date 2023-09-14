@@ -6,4 +6,5 @@ statistics/*
 finetuned-128bert-base/*
 finetuned-512bert-base/*
 roberta-128-base/*
+chromedriver.exe
 */__pycache__/*

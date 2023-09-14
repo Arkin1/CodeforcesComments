@@ -1,0 +1,1 @@
+((-1, 948276)) => <p>Is D's time limit too strict? Just adjusting some int/long long representations and whether printing the newline operator can change TLE to AC.</p>

@@ -1,0 +1,6 @@
+((-1, 906547)) => SubQuestion
+((906547, 906552)) => FixingExp
+((906552, 906555)) => Irrelevant
+((906552, 906558)) => Irrelevant
+((906558, 906566)) => FixingExp
+((906566, 906569)) => Irrelevant

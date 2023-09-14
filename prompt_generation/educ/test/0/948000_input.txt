@@ -1,0 +1,1 @@
+((-1, 948000)) => <p>For problems like C, I found it's incredibly time-consuming for me to get every +1/-1/0 right, like the indices starting from 0/1, the number of steps required starting from the first cell/before the first cell. Does anybody have suggestions for dealing with this?</p>

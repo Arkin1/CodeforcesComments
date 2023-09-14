@@ -1,0 +1,3 @@
+((-1, 879323)) => <p>In Problem D,</p> <p>I am not getting why the length of the middle segment should be power of 2 for the optimal solution.</p> <p>Can someone help?</p>
+((879323, 879325)) => <p>I also don't understand this</p>
+((879323, 879378)) => <p>It's not the middle segment that should be a power of $$$2$$$. We iterate on the size of the middleweight category, which has to be a power of $$$2$$$.</p>

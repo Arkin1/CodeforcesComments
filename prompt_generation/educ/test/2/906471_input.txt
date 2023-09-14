@@ -1,0 +1,2 @@
+((-1, 906471)) => <p>It seems that problem F can be solves with dp, but without precalc. But how to do that?</p>
+((906471, 906507)) => <p>I was thinking that as well,and had a original idea.</p>
