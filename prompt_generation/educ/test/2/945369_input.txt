@@ -1,0 +1,2 @@
+((-1, 945369)) => <div class="ttypography"><p>For D1, please let me know why my solution  <submission link>  WA on test 3 while for j′&lt;i−512, definitely aj′⊕j&gt;aj⊕j′.</p></div>
+((945369, 945370)) => <div class="ttypography"><p>my mx is used to caculate the maximum dp[j] (j from 0 to i — 512)</p></div>

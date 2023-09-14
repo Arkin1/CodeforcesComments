@@ -1,0 +1,3 @@
+((-1, 945856)) => <div class="ttypography"><p>About C, It confuses me that where n*(n+1)/2(in the tutorial is 6*7/2)comes from?</p></div>
+((945856, 945857)) => <div class="ttypography"><p>In my opinion, it is easier to have an initial array filled with the same number. The initial answer is $$$n \cdot (n+1)/2$$$ since that is the number of subarrays, and each subarray will have an awesomeness of 1. After that, we only have to know how to handle the changes after each operation.</p></div>
+((945857, 945860)) => <div class="ttypography"><p>Thanks!I think I get that.</p></div>

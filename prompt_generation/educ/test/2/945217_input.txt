@@ -1,0 +1,1 @@
+((-1, 945217)) => <div class="ttypography"><blockquote><p>(all appeareances of this numbers are in <strong>thsi</strong> square)</p> </blockquote><p>——(In the tutorial of E)</p></div>

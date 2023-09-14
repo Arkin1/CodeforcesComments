@@ -1,0 +1,1 @@
+((-1, 945862)) => <div class="ttypography"><p><code>In my opinion, the difficulty of question C is relatively wide from that of the first two questions, which has a negative impact on the rationality of the ranking.</code></p></div>

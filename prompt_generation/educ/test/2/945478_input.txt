@@ -1,0 +1,1 @@
+((-1, 945478)) => <div class="ttypography"><p>Can anyone please explain the editorial code for D2? I don't understand this implementation of trie.</p></div>

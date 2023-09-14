@@ -1,0 +1,1 @@
+((-1, 945742)) => <div class="ttypography"><p>Thanks for the really nice contest and also the editorial:)</p></div>

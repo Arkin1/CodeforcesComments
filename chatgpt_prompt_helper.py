@@ -164,12 +164,12 @@ class ChatGPTAutomation:
 # # Close the browser and terminate the WebDriver session
 # chatgpt.quit()
 PROMPT_FOLDER = 'prompt_generation'
-ROUND_TYPE = 'educ'
+ROUND_TYPE = 'div'
 ID = 2
 with open(f'{PROMPT_FOLDER}/prompt.txt', 'r') as fp:
     prompt = fp.read()
 
-ROUND_FOLDER = f'{PROMPT_FOLDER}/{ROUND_TYPE}/test/{ID}'
+ROUND_FOLDER = f'{PROMPT_FOLDER}/{ROUND_TYPE}/{ID}'
 
 trees_file_names = []
 

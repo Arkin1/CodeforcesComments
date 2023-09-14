@@ -1,0 +1,2 @@
+((-1, 944728)) => <div class="ttypography"><p>In the solution of D2, an 'equal' is wrong spelled.</p><p><code>and if it's equels 1).</code></p></div>
+((944728, 944733)) => <div class="ttypography"><p>We will fix it quickly. Thank you)</p></div>

@@ -1,0 +1,1 @@
+((-1, 942869)) => <div class="ttypography"><p>Can someone explain the graph proof in tutorial of Problem B? Also didn't get the $$$x_{1}, x_{2}, ... x_{k}$$$ optimal value part with how  $$$ ( x_{1}^2 + x_{2}^2 + ... x_{k}^2)$$$ is obtained because even with no restriction how is maximum value of $$$f(i,x_{i}) = x_{i}^2?$$$</p></div>

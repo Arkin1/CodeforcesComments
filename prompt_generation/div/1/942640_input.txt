@@ -1,0 +1,1 @@
+((-1, 942640)) => <div class="ttypography"><p>Can you use the rearrangement inequality somehow to get a formal proof for the solution to problem B?</p></div>

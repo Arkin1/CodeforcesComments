@@ -1,0 +1,7 @@
+((-1, 945804)) => <div class="ttypography"><p>can someone tell the rating of the C problem ?</p></div>
+((945804, 945809)) => <div class="ttypography"><p>I guess somewhere around 1700...</p></div>
+((945809, 945811)) => <div class="ttypography"><p>ok thanks, it is harder than the usual Div2 C problems </p></div>
+((945811, 945813)) => <div class="ttypography"><p>Agree.I felt the same XD</p></div>
+((945813, 946271)) => <div class="ttypography"><p>Excuse me, but I'm just curious about the meaning of &quot;XD&quot;.</p></div>
+((946271, 946309)) => <div class="ttypography"><p>see the XD by rotating your device, it is text form of laughing emoji (<a href="https://emojiterra.com/smiling-face-with-open-mouth-closed-eyes/">this</a> one)</p><p>Similar to ;) or :)</p></div>
+((945811, 945848)) => <div class="ttypography"><p>I think C was reasonable for Div 2 since the only major (intellectually) hard part was figuring out how to compute the cost at the start. Transitions between queries were really simple (albeit long) and didn't require much thinking.</p></div>

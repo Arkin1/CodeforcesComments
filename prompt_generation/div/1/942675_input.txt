@@ -1,0 +1,2 @@
+((-1, 942675)) => <div class="ttypography"><p>for D: D = max(min(arr[i],arr[i-1]),2*min(arr[0..n-1])) Why do we need bs?</p></div>
+((942675, 942835)) => <div class="ttypography"><p>As we can also update the arr at most k times and it is not optimal to just update the first k smallest values. You can also do it without binary search, but for me, binary search approach is simpler.</p></div>

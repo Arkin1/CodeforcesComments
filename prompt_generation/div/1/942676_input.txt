@@ -1,0 +1,2 @@
+((-1, 942676)) => <div class="ttypography"><p>For subproof in problem D: When Imin is &lt; u, can we take u to Imin and then Imin to v path instead of going till node 1? cc: <a class="rated-user user-orange" href="/profile/Vladithur" title="Master Vladithur">Vladithur</a></p></div>
+((942676, 942677)) => <div class="ttypography"><p>Yes, going to node 1 just ensures that we always cross the min value.</p></div>

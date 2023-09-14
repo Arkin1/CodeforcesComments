@@ -1,0 +1,5 @@
+((-1, 946036)) => <div class="ttypography"><p>This solution is easy for problem A.</p> <div class="spoiler"><b class="spoiler-title">C++ Code</b><div class="spoiler-content" style="display: none;"><p>...  <submission link> </p></div></div></div>
+((946036, 947016)) => <div class="ttypography"><p>which topic this problem belongs to ? as i want to learn more about it to solve similar problems</p></div>
+((947016, 947018)) => <div class="ttypography"><p>No topic <br /> Greedy and Math</p></div>
+((947018, 947415)) => <div class="ttypography"><p>Thnx and thnx for your solution btw</p></div>
+((947415, 947632)) => <div class="ttypography"><p>You're most welcome (✿◠‿◠)</p></div>

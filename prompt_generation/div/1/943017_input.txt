@@ -1,0 +1,3 @@
+((-1, 943017)) => <div class="ttypography"><p>In problem E how can I find this $$$\frac{(r - l + 1) \cdot (r - l) \cdot (r - l - 1)}{6}$$$ .</p></div>
+((943017, 943064)) => <div class="ttypography"><p>It's just $$$C_{r - l + 1}^3$$$ — the number of ways too choose three elements from $$$r - l + 1$$$ elements (if we don't care about the order). </p></div>
+((943064, 943100)) => <div class="ttypography"><p>Thank you!</p></div>

@@ -1,0 +1,9 @@
+((-1, 942598)) => <div class="ttypography"><p>the gap between C and D is too large.</p></div>
+((942598, 942602)) => <div class="ttypography"><p>Maybe yes, but E1 was solvable, you could solve E1 instead of D</p></div>
+((942598, 942603)) => <div class="ttypography"><p>We expected C to be a bit harder and D to be a bit easier.</p></div>
+((942603, 942740)) => <div class="ttypography"><p>If you know Graph algorithms I think solving D would be easy however in general E1 is much easier</p></div>
+((942740, 942752)) => <div class="ttypography"><p>maybe. But for me, I solve D in 30 min but solve E1 in 1h30min(failed to find 6 and 15's apperance, not familiar with the method). And I think D doesn't really have much to do with Graph Algorithms.</p></div>
+((942752, 945132)) => <div class="ttypography"><p>Can you please explain the 6 and 15 case, cuz i dont understand it at all?</p></div>
+((942740, 947875)) => <div class="ttypography"><p>No spoliers</p></div>
+((942598, 942757)) => <div class="ttypography"><p>D isn't so hard, just D, like the ancient times, the C was easy let's gonna admit that </p></div>
+((942598, 942862)) => <div class="ttypography"><p>yes</p></div>

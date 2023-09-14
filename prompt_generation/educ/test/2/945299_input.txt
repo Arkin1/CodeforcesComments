@@ -1,0 +1,2 @@
+((-1, 945299)) => <div class="ttypography"><p>for second problem NlogN ( sorting the array )solution give timeout for Java , however for other languages c++ and python same solution works , Please work on test cases and time set for diff languages</p></div>
+((945299, 945570)) => <div class="ttypography"><p>You can also find 2 maximums and 2 minimums of the array in linear time. Such implementation passes if you code it in Java too</p></div>

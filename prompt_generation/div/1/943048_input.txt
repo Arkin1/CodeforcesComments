@@ -1,0 +1,2 @@
+((-1, 943048)) => <div class="ttypography"><p>Can someone help me to know why my solution fails for problem C?</p>  <code> </div>
+((943048, 943112)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16034">Ticket 16034</a> from <strong>CF Stress</strong> for a counter example.</p></div>

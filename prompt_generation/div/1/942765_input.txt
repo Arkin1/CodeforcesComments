@@ -1,0 +1,2 @@
+((-1, 942765)) => <div class="ttypography"><p>B Bonus: try to prove the solution without the editorial!</p><p>Me: Use the data!</p></div>
+((942765, 942799)) => <div class="ttypography"><p>666</p></div>

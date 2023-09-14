@@ -1,0 +1,2 @@
+((-1, 943404)) => <div class="ttypography"><p>Can anyone tell me why I got the wrong answer in  <submission link>  of problem d?</p></div>
+((943404, 943469)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16040">Ticket 16040</a> from <strong>CF Stress</strong> for a counter example.</p></div>

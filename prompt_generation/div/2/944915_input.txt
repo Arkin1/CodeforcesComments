@@ -1,0 +1,2 @@
+((-1, 944915)) => <div class="ttypography"> <code> </div>
+((944915, 946711)) => <div class="ttypography"><p>can a[j]^i really reduce i by 256. I mean according to me, it can reduce it by 200 atmost. If it can, can you please give any example.</p></div>

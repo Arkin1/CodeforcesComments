@@ -1,0 +1,3 @@
+((-1, 945795)) => <div class="ttypography"><p>The evolution of $$$Div2$$$ $$$E$$$</p><p><img alt=" " src="/predownloaded/14/6e/146ec529abb30cf5fd66fd7d48839dd33fec073e.jpeg" style="max-width: 100.0%;max-height: 100.0%;" /></p></div>
+((945795, 945842)) => <div class="ttypography"><p>May I take the picture away?</p></div>
+((945842, 945847)) => <div class="ttypography"><p>Sure.</p></div>

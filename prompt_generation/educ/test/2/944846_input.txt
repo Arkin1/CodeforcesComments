@@ -1,0 +1,3 @@
+((-1, 944846)) => <div class="ttypography"><p>A and B harder than C ngl</p></div>
+((944846, 944872)) => <div class="ttypography"><p>B&gt;A&gt;C</p></div>
+((944846, 945037)) => <div class="ttypography"><p>B is the easiest once you understand the statement. It took me like 2 min to come up with the solution but I initially didn't read the statement clearly.</p></div>

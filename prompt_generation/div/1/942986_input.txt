@@ -1,0 +1,1 @@
+((-1, 942986)) => <div class="ttypography"><p>In editorial of problem D, what is the &quot;another case to work&quot;?</p></div>

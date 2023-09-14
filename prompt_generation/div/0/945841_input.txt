@@ -1,0 +1,1 @@
+((-1, 945841)) => <div class="ttypography"><p>Saw square cost function and shortest path type dp for E and was wondering if convex hull trick might come in handy. That was in the back of my mind but didn't consider it seriously. </p><p>I also liked C and D.</p></div>

@@ -1,0 +1,7 @@
+((-1, 944883)) => QuestionExp
+((944883, 944935)) => Irrelevant
+((944935, 944939)) => Irrelevant
+((944883, 944946)) => HintExp
+((944946, 944955)) => QuestionExp
+((944955, 944956)) => HintExp
+((944883, 944980)) => Irrelevant

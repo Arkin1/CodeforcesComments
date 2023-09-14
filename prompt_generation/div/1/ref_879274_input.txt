@@ -1,0 +1,1 @@
+((-1, 879274)) => <p>Same solution of <strong>B</strong>, but with regex (with code pattern): Perl —  <submission link> , <span style="color: rgb(235,80,215);">(13+)</span>.</p>

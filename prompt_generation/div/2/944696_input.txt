@@ -1,0 +1,2 @@
+((-1, 944696)) => <div class="ttypography"><p>Observation forces</p></div>
+((944696, 944914)) => <div class="ttypography"><p>very fitting handle for today's contest</p></div>

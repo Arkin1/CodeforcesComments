@@ -1,0 +1,5 @@
+((-1, 942698)) => <div class="ttypography"><p>How do you arrive at the conclusion: a tuple $$$i \lt j \lt k$$$ is bad when $$$\mathrm{lcm}(i,j,k) = 2 \cdot k$$$ and $$$i+j \gt k$$$?</p></div>
+((942698, 942699)) => <div class="ttypography"><p>$$$lcm(i, j, k) = 2 \cdot k \implies 2 \cdot k &lt; i + j + k \implies i + j &gt; k$$$</p></div>
+((942699, 942705)) => <div class="ttypography"><p>I meant to ask how you get $$$\mathrm{lcm}(i,j,k) = 2 \cdot k$$$ in particular. Why $$$2 \cdot k$$$?</p></div>
+((942705, 942712)) => <div class="ttypography"><p>$$$lcm(i, j, k) &lt; 3 \cdot k$$$, and $$$lcm$$$ must divide $$$i$$$, $$$j$$$, and $$$k$$$. This leaves us with only two possible values for it: $$$k$$$ and $$$2 \cdot k$$$.</p></div>
+((942712, 942714)) => <div class="ttypography"><p>Ohh okay. Thanks!</p></div>

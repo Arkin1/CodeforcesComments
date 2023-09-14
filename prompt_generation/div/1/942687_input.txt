@@ -1,0 +1,2 @@
+((-1, 942687)) => <div class="ttypography"><p>I don’t think we need that proof to solve B I just wrote the numbers down and i got my answers right away But btw nice editorial &lt; 3</p></div>
+((942687, 943507)) => <div class="ttypography"><p>During the contest you may be right,but I don't think you can learn something from the problem after the contest.Actually,if it was D or E,probably you would hesitate to submit.</p></div>
