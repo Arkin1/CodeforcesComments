@@ -1,3 +1,3 @@
-((-1, 945766)) => <div class="ttypography"><p>Hello, Can someone please explain why this failed (Problem B)?  <submission link> </p></div>
-((945766, 945793)) => <div class="ttypography"><p>Your solution failed because: 1. The lower bound for s would be b * k (handled properly) 2. The upper bound for s would be b * k + n * (k — 1) (your code does not handle this properly).</p><p>As, after setting first element to b * k, you can still add k — 1 to each element of the array.</p><p>Counter Test Case: 1 2 3 1 6</p><p>Correct Answer: (5, 1) or (4, 2) Your Code output: -1</p></div>
-((945793, 945871)) => <div class="ttypography"><p>Thanks bro, I got it.</p></div>
+<div class="ttypography"><p>Hello, Can someone please explain why this failed (Problem B)?  <submission link> </p></div> <<===>> 
+<div class="ttypography"><p>Your solution failed because: 1. The lower bound for s would be b * k (handled properly) 2. The upper bound for s would be b * k + n * (k — 1) (your code does not handle this properly).</p><p>As, after setting first element to b * k, you can still add k — 1 to each element of the array.</p><p>Counter Test Case: 1 2 3 1 6</p><p>Correct Answer: (5, 1) or (4, 2) Your Code output: -1</p></div> <<===>> 
+<div class="ttypography"><p>Thanks bro, I got it.</p></div> <<===>> 

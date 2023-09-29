@@ -1,2 +1,2 @@
-((-1, 942617)) => <div class="ttypography"><p>The editorial doesn’t show up in the bottom right of the problem pages</p></div>
-((942617, 942618)) => <div class="ttypography"><p>Now it should</p></div>
+<div class="ttypography"><p>The editorial doesn’t show up in the bottom right of the problem pages</p></div> <<===>> 
+<div class="ttypography"><p>Now it should</p></div> <<===>> 

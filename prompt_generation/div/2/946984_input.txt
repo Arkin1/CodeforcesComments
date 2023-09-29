@@ -1,2 +1,2 @@
-((-1, 946984)) => <div class="ttypography"><p>Wont this part of code be wrong in this test case? (C)</p><p>int cnt = a[i][j] + a[i + 1][j] + a[i][j + 1] + a[i + 1][j + 1];</p><p>minn = min(minn, max(1, cnt — 1));</p><p>1</p><p>2 2</p><p>01</p><p>11</p></div>
-((946984, 946993)) => <div class="ttypography"><p>I tested and it gave right answer can someone explain me how is this code true for all testcases?</p></div>
+<div class="ttypography"><p>Wont this part of code be wrong in this test case? (C)</p><p>int cnt = a[i][j] + a[i + 1][j] + a[i][j + 1] + a[i + 1][j + 1];</p><p>minn = min(minn, max(1, cnt — 1));</p><p>1</p><p>2 2</p><p>01</p><p>11</p></div> <<===>> 
+<div class="ttypography"><p>I tested and it gave right answer can someone explain me how is this code true for all testcases?</p></div> <<===>> 

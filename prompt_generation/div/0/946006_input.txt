@@ -1,1 +1,1 @@
-((-1, 946006)) => <div class="ttypography"><p>The time complexity between  <submission link>  is the same. The only difference is I scanned in increasing order instead of decreasing order. I wonder whether it is a trick to cut down time.</p></div>
+<div class="ttypography"><p>The time complexity between  <submission link>  is the same. The only difference is I scanned in increasing order instead of decreasing order. I wonder whether it is a trick to cut down time.</p></div> <<===>> 

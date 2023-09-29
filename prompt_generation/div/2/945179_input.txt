@@ -1,3 +1,3 @@
-((-1, 945179)) => <div class="ttypography"><p>Is the TL on D2 too tight? My submission TLEs on test 3, even though it is $$$O(n \log (a_i))$$$.  <submission link> </p></div>
-((945179, 945199)) => <div class="ttypography"><p>Most correct solutions pass in less than 500ms, something might be wrong in your code. Maybe try to run it with 300,000 elements to see how far you are from the 2s limit?</p></div>
-((945199, 945220)) => <div class="ttypography"><p>It takes around 3500ms. Any fixes to improve that?</p><p>Edit: It takes &lt;500 ms on some n=300000 cases, custom hash for unordered_map didnt help either</p></div>
+<div class="ttypography"><p>Is the TL on D2 too tight? My submission TLEs on test 3, even though it is $$$O(n \log (a_i))$$$.  <submission link> </p></div> <<===>> 
+<div class="ttypography"><p>Most correct solutions pass in less than 500ms, something might be wrong in your code. Maybe try to run it with 300,000 elements to see how far you are from the 2s limit?</p></div> <<===>> 
+<div class="ttypography"><p>It takes around 3500ms. Any fixes to improve that?</p><p>Edit: It takes &lt;500 ms on some n=300000 cases, custom hash for unordered_map didnt help either</p></div> <<===>> 

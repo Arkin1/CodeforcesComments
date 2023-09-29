@@ -1,1 +1,1 @@
-((-1, 918186)) => <p>It’s interesting to notice that in D’s solution the while loop has the condition of “mid &lt;= n” instead of “len1 + mid &lt;= n”. Actually I can prove “len1 + mid / 2 &lt;= n” will not miss cases but cannot prove the other two condition’s correctness.</p>
+<p>It’s interesting to notice that in D’s solution the while loop has the condition of “mid &lt;= n” instead of “len1 + mid &lt;= n”. Actually I can prove “len1 + mid / 2 &lt;= n” will not miss cases but cannot prove the other two condition’s correctness.</p> <<===>> 

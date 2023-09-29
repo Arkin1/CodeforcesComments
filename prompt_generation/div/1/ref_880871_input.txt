@@ -1,1 +1,1 @@
-((-1, 880871)) => <p>Problem C can be solved with $$$\mathcal O(n)$$$.</p>
+<p>Problem C can be solved with $$$\mathcal O(n)$$$.</p> <<===>> 

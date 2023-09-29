@@ -1,2 +1,2 @@
-((-1, 950110)) => <div class="ttypography"><p>C :</p><p>wHERE IS MISTAKE , iT'S FALLING ON 2ND TEST CASE</p><p><a href="https://codeforces.com/problemset/submission/1712/170962914">https://codeforces.com/problemset/submission/1712/170962914</a></p></div>
-((950110, 953385)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16172">Ticket 16172</a> from <strong>CF Stress</strong> for a counter example.</p></div>
+<div class="ttypography"><p>C :</p><p>wHERE IS MISTAKE , iT'S FALLING ON 2ND TEST CASE</p><p><a href="https://codeforces.com/problemset/submission/1712/170962914">https://codeforces.com/problemset/submission/1712/170962914</a></p></div> <<===>> 
+<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16172">Ticket 16172</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 

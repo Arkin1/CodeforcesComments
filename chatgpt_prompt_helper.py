@@ -165,7 +165,7 @@ class ChatGPTAutomation:
 # chatgpt.quit()
 PROMPT_FOLDER = 'prompt_generation'
 ROUND_TYPE = 'div'
-ID = 2
+ID = 0
 with open(f'{PROMPT_FOLDER}/prompt.txt', 'r') as fp:
     prompt = fp.read()
 
@@ -177,15 +177,7 @@ for file_name in os.listdir(ROUND_FOLDER):
     trees_file_names.append(file_name)
 
 from collections import defaultdict
-ref_trees = defaultdict(dict)
 round_trees = defaultdict(dict)
-
-for fn in [file_name for file_name in trees_file_names if file_name.startswith('ref')]:
-    root = fn.split('_')[1]
-    type = fn.split('_')[2].split('.')[0]
-
-    with open(f'{ROUND_FOLDER}/{fn}', 'r', encoding = 'utf-8') as fp:
-        ref_trees[root][type] = fp.read()
 
 for fn in [file_name for file_name in trees_file_names if not file_name.startswith('ref')]:
     root = fn.split('_')[0]
@@ -195,7 +187,9 @@ for fn in [file_name for file_name in trees_file_names if not file_name.startswi
         round_trees[root][type] = fp.read()
 
 total_chars = 0
-for tree_data in round_trees.values():
+
+comments = [comment for tree in round_trees.values() for comment in tree['input'].split('<<===>>')[:-1]]
+for tree_data in comments:
     if(total_chars == 0):
         chatgpt = ChatGPTAutomation('\"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
         chatgpt.send_prompt_to_chatgpt(prompt)
@@ -210,8 +204,17 @@ for tree_data in round_trees.values():
 
     #chatgpt.send_prompt_to_chatgpt('A NEW COMMENT TREE HAS APPEARED')
 
-    chat_prompt = '%rule%\n' + tree_data['input']
-    chatgpt.send_prompt_to_chatgpt(chat_prompt)
+    chat_prompt = '%rule%\n' + tree_data + '<<===>> '
+    try:
+        chatgpt.send_prompt_to_chatgpt(chat_prompt)
+    except:
+        chatgpt.quit()
+        total_chars = 0
+
+        chatgpt = ChatGPTAutomation('\"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
+        chatgpt.send_prompt_to_chatgpt(prompt)
+        total_chars+= len(prompt)
+        continue
     #chatgpt.send_prompt_to_chatgpt('%rule%\n' + tree_data['output'])
     total_chars+= len(chat_prompt)
 

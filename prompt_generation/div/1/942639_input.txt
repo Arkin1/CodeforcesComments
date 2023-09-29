@@ -1,2 +1,2 @@
-((-1, 942639)) => <div class="ttypography"><p>Easiest Div2C ever?</p></div>
-((942639, 942887)) => <div class="ttypography"><p>Yes probably. Some newbies solved all A,B,C and still got negative delta.</p></div>
+<div class="ttypography"><p>Easiest Div2C ever?</p></div> <<===>> 
+<div class="ttypography"><p>Yes probably. Some newbies solved all A,B,C and still got negative delta.</p></div> <<===>> 

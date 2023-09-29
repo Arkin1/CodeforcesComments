@@ -1,2 +1,2 @@
-((-1, 942668)) => <div class="ttypography"><p>Is anyone getting wrong answer on 21st test of main test 2 for problem D? (the test case isn't visible)</p></div>
-((942668, 942684)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16032">Ticket 16032</a> from <strong>CF Stress</strong> for a counter example.</p></div>
+<div class="ttypography"><p>Is anyone getting wrong answer on 21st test of main test 2 for problem D? (the test case isn't visible)</p></div> <<===>> 
+<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16032">Ticket 16032</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 

@@ -1,3 +1,3 @@
-((-1, 945890)) => <div class="ttypography"><p>Can someone please explain why this failed?  <submission link> </p><p>I thought I did it right. Thanks in advance</p></div>
-((945890, 945987)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16061">Ticket 16061</a> from <strong>CF Stress</strong> for a counter example.</p></div>
-((945987, 945988)) => <div class="ttypography"><p>Thanks!</p></div>
+<div class="ttypography"><p>Can someone please explain why this failed?  <submission link> </p><p>I thought I did it right. Thanks in advance</p></div> <<===>> 
+<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16061">Ticket 16061</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 
+<div class="ttypography"><p>Thanks!</p></div> <<===>> 

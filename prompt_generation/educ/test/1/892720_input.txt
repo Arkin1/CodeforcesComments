@@ -1,1 +1,1 @@
-((-1, 892720)) => <p>the solution for question C gives TLE. Didn't expect it to be like that in editorial.</p>
+<p>the solution for question C gives TLE. Didn't expect it to be like that in editorial.</p> <<===>> 

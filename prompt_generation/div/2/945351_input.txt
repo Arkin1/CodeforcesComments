@@ -1,1 +1,1 @@
-((-1, 945351)) => <div class="ttypography"><p>The answer of problem B doesn't only exceed max1+max2-min1-min2, but also is equal to max1+max2-min1-min2. So the best complexity is O(n).</p></div>
+<div class="ttypography"><p>The answer of problem B doesn't only exceed max1+max2-min1-min2, but also is equal to max1+max2-min1-min2. So the best complexity is O(n).</p></div> <<===>> 

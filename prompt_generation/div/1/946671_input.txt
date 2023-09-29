@@ -1,1 +1,1 @@
-((-1, 946671)) => <div class="ttypography"><p>what is wrong in my code for problem C? please help someone!!!  <submission link> </p></div>
+<div class="ttypography"><p>what is wrong in my code for problem C? please help someone!!!  <submission link> </p></div> <<===>> 

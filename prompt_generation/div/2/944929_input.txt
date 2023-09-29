@@ -1,2 +1,2 @@
-((-1, 944929)) => <div class="ttypography"><p>Would someone mind explaining to me why if x=bc/ad then <strong>bc must be divisible by ad</strong> in problem A</p></div>
-((944929, 944941)) => <div class="ttypography"><p>Because if bc/ad=x and x is an integer, then bc is divisible by ad by definition.</p></div>
+<div class="ttypography"><p>Would someone mind explaining to me why if x=bc/ad then <strong>bc must be divisible by ad</strong> in problem A</p></div> <<===>> 
+<div class="ttypography"><p>Because if bc/ad=x and x is an integer, then bc is divisible by ad by definition.</p></div> <<===>> 

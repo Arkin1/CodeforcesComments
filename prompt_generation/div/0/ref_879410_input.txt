@@ -1,2 +1,2 @@
-((-1, 879410)) => <p>Getting Tle in Problem B. How to optimize it?</p> <p> <submission link> </p>
-((879410, 879881)) => <p>First, in Kotlin I use StringBuilder instead of string concatenation to speed things up, maybe it can be the case in Java too. Second, <code>x</code> and <code>ind</code> are enough to prepare an answer, you don't have to create a new string for <code>ans</code> on every iteration of for-loop.</p>
+<p>Getting Tle in Problem B. How to optimize it?</p> <p> <submission link> </p> <<===>> 
+<p>First, in Kotlin I use StringBuilder instead of string concatenation to speed things up, maybe it can be the case in Java too. Second, <code>x</code> and <code>ind</code> are enough to prepare an answer, you don't have to create a new string for <code>ans</code> on every iteration of for-loop.</p> <<===>> 

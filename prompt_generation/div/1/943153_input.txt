@@ -1,2 +1,2 @@
-((-1, 943153)) => <div class="ttypography"><p>I am very confused about the use of i+= i &amp; (-i) loop from many of the fastest solutions of problem E2. For example,  <submission link> .</p><p>It seems to me that there are some hidden patterns that I am not aware of. Could anyone help me?</p></div>
-((943153, 943183)) => <div class="ttypography"><p>It's just one possible implementation of a <a href="https://cp-algorithms.com/data_structures/fenwick.html">fenwick tree</a>.</p></div>
+<div class="ttypography"><p>I am very confused about the use of i+= i &amp; (-i) loop from many of the fastest solutions of problem E2. For example,  <submission link> .</p><p>It seems to me that there are some hidden patterns that I am not aware of. Could anyone help me?</p></div> <<===>> 
+<div class="ttypography"><p>It's just one possible implementation of a <a href="https://cp-algorithms.com/data_structures/fenwick.html">fenwick tree</a>.</p></div> <<===>> 

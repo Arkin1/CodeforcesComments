@@ -1,1 +1,1 @@
-((-1, 942693)) => <div class="ttypography"><p>Problem C can be solved with binary search </p></div>
+<div class="ttypography"><p>Problem C can be solved with binary search </p></div> <<===>> 

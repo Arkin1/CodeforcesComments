@@ -1,2 +1,2 @@
-((-1, 889616)) => <p>C can be done with 2D DP. My submission is linked below  <submission link> </p> <p>Note that I only used the custom "getbigger" function instead of the max function because the max function was being annoying for me.</p>
-((889616, 927003)) => <p>Could you explain the idea of your code?</p>
+<p>C can be done with 2D DP. My submission is linked below  <submission link> </p> <p>Note that I only used the custom "getbigger" function instead of the max function because the max function was being annoying for me.</p> <<===>> 
+<p>Could you explain the idea of your code?</p> <<===>> 

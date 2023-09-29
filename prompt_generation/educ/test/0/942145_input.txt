@@ -1,3 +1,3 @@
-((-1, 942145)) => <p>Does anyone have a testcase that breaks my submission for C?  <submission link> </p>
-((942145, 942162)) => <p>Take a look at <a href="https://cfstress.com/status/16020">Ticket 16020</a> from <strong>CF Stress</strong> for a counter example.</p>
-((942162, 942384)) => <p>thanks</p>
+<p>Does anyone have a testcase that breaks my submission for C?  <submission link> </p> <<===>> 
+<p>Take a look at <a href="https://cfstress.com/status/16020">Ticket 16020</a> from <strong>CF Stress</strong> for a counter example.</p> <<===>> 
+<p>thanks</p> <<===>> 

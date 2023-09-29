@@ -1,5 +1,5 @@
-((-1, 944830)) => <div class="ttypography"><p> <submission link>  can anyone pls tell whats wrong in this submission?</p></div>
-((944830, 944850)) => <div class="ttypography"><p>Maybe it's due to the <strong>floating-point error</strong>.</p><p>Try to compare <code>a * c</code> and <code>b * d</code> to compare <code>a / b</code> and <code>c / d</code>.</p><p>Don't forget to use bigger data type such as <code>long long</code>!</p></div>
-((944850, 944871)) => <div class="ttypography"><p>yeah I think I too made this error</p></div>
-((944830, 944857)) => <div class="ttypography"><p>Never use doubles and floats if you can avoid it.</p></div>
-((944830, 944867)) => <div class="ttypography"><p>Floating Point precision error. Try this test case:</p>  <code> <p>It should return 1, since you need to multiply the first numerator by 0, but your code seems to print 0, because it incorrectly calculated the first fraction as 0 due to precision errors. </p></div>
+<div class="ttypography"><p> <submission link>  can anyone pls tell whats wrong in this submission?</p></div> <<===>> 
+<div class="ttypography"><p>Maybe it's due to the <strong>floating-point error</strong>.</p><p>Try to compare <code>a * c</code> and <code>b * d</code> to compare <code>a / b</code> and <code>c / d</code>.</p><p>Don't forget to use bigger data type such as <code>long long</code>!</p></div> <<===>> 
+<div class="ttypography"><p>yeah I think I too made this error</p></div> <<===>> 
+<div class="ttypography"><p>Never use doubles and floats if you can avoid it.</p></div> <<===>> 
+<div class="ttypography"><p>Floating Point precision error. Try this test case:</p>  <code> <p>It should return 1, since you need to multiply the first numerator by 0, but your code seems to print 0, because it incorrectly calculated the first fraction as 0 due to precision errors. </p></div> <<===>> 

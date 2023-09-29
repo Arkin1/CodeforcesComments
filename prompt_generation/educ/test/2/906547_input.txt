@@ -1,6 +1,6 @@
-((-1, 906547)) => <p>Can someone help me see where my B problem is going wrong，This caused my crash and lower rate  <submission link> </p>
-((906547, 906552)) => <p>This happens because if the answer is <code>NO</code> your code goes to end and doesn't input remaining numbers. So they will be in the next test case and all numeration of the input numbers breaks so your code gots WA. To fix it your need to input ALL numbers even if the answer is <code>NO</code> now.</p>
-((906552, 906555)) => <p>Thank you very much! ! ！ It was a stupid mistake T_T</p>
-((906552, 906558)) => <p>I modified it, but it still seems to have a problem  <submission link> </p>
-((906558, 906566)) => <p>This happens because your solution can print two <code>NO</code> instead one. You must append the word <code>continue;</code> after the first check in cycle to not run the second check if the first check is already <code>NO</code>. And you will get AC then.</p>
-((906566, 906569)) => <p>yes,you are right,i must thank you again!</p>
+<p>Can someone help me see where my B problem is going wrong，This caused my crash and lower rate  <submission link> </p> <<===>> 
+<p>This happens because if the answer is <code>NO</code> your code goes to end and doesn't input remaining numbers. So they will be in the next test case and all numeration of the input numbers breaks so your code gots WA. To fix it your need to input ALL numbers even if the answer is <code>NO</code> now.</p> <<===>> 
+<p>Thank you very much! ! ！ It was a stupid mistake T_T</p> <<===>> 
+<p>I modified it, but it still seems to have a problem  <submission link> </p> <<===>> 
+<p>This happens because your solution can print two <code>NO</code> instead one. You must append the word <code>continue;</code> after the first check in cycle to not run the second check if the first check is already <code>NO</code>. And you will get AC then.</p> <<===>> 
+<p>yes,you are right,i must thank you again!</p> <<===>> 

@@ -1,1 +1,1 @@
-((-1, 940178)) => <p>C. Robot in a Hallway</p> <p>Better intuitive approach to the problem C</p>   <div class="spoiler"><b class="spoiler-title">Solution</b><div class="spoiler-content" style="display: none;"> <code> </div></div>
+<p>C. Robot in a Hallway</p> <p>Better intuitive approach to the problem C</p>   <div class="spoiler"><b class="spoiler-title">Solution</b><div class="spoiler-content" style="display: none;"> <code> </div></div> <<===>> 

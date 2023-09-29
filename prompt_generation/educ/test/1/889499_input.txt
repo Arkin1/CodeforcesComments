@@ -1,5 +1,5 @@
-((-1, 889499)) => <p>Can anyone help why is this giving me TLE for D  <submission link>  ?</p>
-((889499, 889537)) => <p>You have initialized arrays visr and visc of size n and m respectively. Hence your time complexity is O(t*(n+m)) or larger, which in the worst case will be 2*1e9 since there is no limit on sum of m,n over all test cases.</p>
-((889537, 889554)) => <p>Thanks for the help I didn't noticed that.</p>
-((889537, 896394)) => <p>Woah! I was facing the same issue. I would've never figured this out without your comment.</p>
-((889537, 897491)) => <p>but it is same know, what is the difference between maintaining a vector or a map, we are maintaining two of them , please explain more clearly  <submission link> </p>
+<p>Can anyone help why is this giving me TLE for D  <submission link>  ?</p> <<===>> 
+<p>You have initialized arrays visr and visc of size n and m respectively. Hence your time complexity is O(t*(n+m)) or larger, which in the worst case will be 2*1e9 since there is no limit on sum of m,n over all test cases.</p> <<===>> 
+<p>Thanks for the help I didn't noticed that.</p> <<===>> 
+<p>Woah! I was facing the same issue. I would've never figured this out without your comment.</p> <<===>> 
+<p>but it is same know, what is the difference between maintaining a vector or a map, we are maintaining two of them , please explain more clearly  <submission link> </p> <<===>> 

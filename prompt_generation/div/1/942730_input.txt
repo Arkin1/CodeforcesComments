@@ -1,4 +1,4 @@
-((-1, 942730)) => <div class="ttypography"><p>Could someone point out my mistake in problem D? I don't understand what the tute is saying very well.  <submission link> </p></div>
-((942730, 942732)) => <div class="ttypography"><p>Greedily changing the $$$k$$$ smallest values isn't always correct</p></div>
-((942732, 942746)) => <div class="ttypography"><p>Thanks, I hadn't thought of that.</p></div>
-((942732, 948377)) => <div class="ttypography"><p>I did this at first as well</p></div>
+<div class="ttypography"><p>Could someone point out my mistake in problem D? I don't understand what the tute is saying very well.  <submission link> </p></div> <<===>> 
+<div class="ttypography"><p>Greedily changing the $$$k$$$ smallest values isn't always correct</p></div> <<===>> 
+<div class="ttypography"><p>Thanks, I hadn't thought of that.</p></div> <<===>> 
+<div class="ttypography"><p>I did this at first as well</p></div> <<===>> 

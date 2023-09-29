@@ -1,1 +1,1 @@
-((-1, 890659)) => <p>In problem D, why TLE with vector(int) and AC with vector(bool) , time complexity doesn't change.  <submission link> </p> <p>UPD: People already answered this in Announcement for this contest</p>
+<p>In problem D, why TLE with vector(int) and AC with vector(bool) , time complexity doesn't change.  <submission link> </p> <p>UPD: People already answered this in Announcement for this contest</p> <<===>> 

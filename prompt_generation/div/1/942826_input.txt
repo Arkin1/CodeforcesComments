@@ -1,3 +1,3 @@
-((-1, 942826)) => <div class="ttypography"><p>But I can't understand D. /sad</p></div>
-((942826, 942856)) => <div class="ttypography"><p><a href="https://youtu.be/FuiCKgDLBCY">Video Solution</a> for D.</p><p>(<a href="https://youtu.be/bcgyCY5Fcms">Video Solution</a> for C.)</p></div>
-((942856, 942858)) => <div class="ttypography"><p>thinks.</p></div>
+<div class="ttypography"><p>But I can't understand D. /sad</p></div> <<===>> 
+<div class="ttypography"><p><a href="https://youtu.be/FuiCKgDLBCY">Video Solution</a> for D.</p><p>(<a href="https://youtu.be/bcgyCY5Fcms">Video Solution</a> for C.)</p></div> <<===>> 
+<div class="ttypography"><p>thinks.</p></div> <<===>> 

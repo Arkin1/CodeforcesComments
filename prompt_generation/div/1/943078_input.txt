@@ -1,2 +1,2 @@
-((-1, 943078)) => <div class="ttypography"><p>What is the solution for F Bonus?</p></div>
-((943078, 943125)) => <div class="ttypography"><p>Did you solve the original F problem first?</p></div>
+<div class="ttypography"><p>What is the solution for F Bonus?</p></div> <<===>> 
+<div class="ttypography"><p>Did you solve the original F problem first?</p></div> <<===>> 

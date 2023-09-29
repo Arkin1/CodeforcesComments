@@ -1,5 +1,5 @@
-((-1, 906260)) => <p>I've known that F needed precalc,but I didn't solve it.qwq</p>
-((906260, 906461)) => <p>In fact, when $$$n &gt; k^2$$$ holds, the answer is a $$$O(k)$$$-degree polynomial. So you can use lagrange interpolation to solve this problem without precalc.</p>
-((906461, 906506)) => <p>I see,probably.</p> <p>Could I see your code to understand further?</p>
-((906506, 906536)) => <p>You can see A-SOUL_Diana's Code.  <submission link> </p>
-((906536, 906572)) => <p>thanks!</p>
+<p>I've known that F needed precalc,but I didn't solve it.qwq</p> <<===>> 
+<p>In fact, when $$$n &gt; k^2$$$ holds, the answer is a $$$O(k)$$$-degree polynomial. So you can use lagrange interpolation to solve this problem without precalc.</p> <<===>> 
+<p>I see,probably.</p> <p>Could I see your code to understand further?</p> <<===>> 
+<p>You can see A-SOUL_Diana's Code.  <submission link> </p> <<===>> 
+<p>thanks!</p> <<===>> 

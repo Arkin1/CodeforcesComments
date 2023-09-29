@@ -1,1 +1,1 @@
-((-1, 945810)) => <div class="ttypography"><p>Oh no! I got the solution of F during the contest, but it only cost 2 steps.So I didn't dare to write:(</p></div>
+<div class="ttypography"><p>Oh no! I got the solution of F during the contest, but it only cost 2 steps.So I didn't dare to write:(</p></div> <<===>> 

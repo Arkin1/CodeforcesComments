@@ -1,1 +1,1 @@
-((-1, 921333)) => <p>can someone please explain the problem <a href="https://codeforces.com/contest/1671/problem/B">https://codeforces.com/contest/1671/problem/B</a></p>
+<p>can someone please explain the problem <a href="https://codeforces.com/contest/1671/problem/B">https://codeforces.com/contest/1671/problem/B</a></p> <<===>> 

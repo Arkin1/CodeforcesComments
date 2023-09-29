@@ -1,2 +1,2 @@
-((-1, 889560)) => <p>I appreciate all the work that all problem setters and editorialists put in creating problems and writing editorials, but I want to know why there's a delay of almost a day between contest ending and editorials getting out? The excitement and the curiosity fade away (at least for me) due to such a long delay...</p>
-((889560, 890386)) => <p>That holds true only for certain contests, for some contests the editorial is out as soon as the round ends bro.</p>
+<p>I appreciate all the work that all problem setters and editorialists put in creating problems and writing editorials, but I want to know why there's a delay of almost a day between contest ending and editorials getting out? The excitement and the curiosity fade away (at least for me) due to such a long delay...</p> <<===>> 
+<p>That holds true only for certain contests, for some contests the editorial is out as soon as the round ends bro.</p> <<===>> 

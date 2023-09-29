@@ -1,1 +1,1 @@
-((-1, 945873)) => <div class="ttypography"><p>thanks for tutorial !!!!</p></div>
+<div class="ttypography"><p>thanks for tutorial !!!!</p></div> <<===>> 

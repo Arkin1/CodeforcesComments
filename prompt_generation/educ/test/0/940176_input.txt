@@ -1,2 +1,2 @@
-((-1, 940176)) => <p>My $$$O(n\sqrt n)$$$  <submission link>  for problem D that works in just 78 ms!</p>
-((940176, 940328)) => <p>The expression 'sum[q] -= (sum[q] &gt;= mod) ? mod : 0' will be auto-vectorized in GCC with AVX enabled so that's a reason I guess.</p>
+<p>My $$$O(n\sqrt n)$$$  <submission link>  for problem D that works in just 78 ms!</p> <<===>> 
+<p>The expression 'sum[q] -= (sum[q] &gt;= mod) ? mod : 0' will be auto-vectorized in GCC with AVX enabled so that's a reason I guess.</p> <<===>> 

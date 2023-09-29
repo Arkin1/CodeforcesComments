@@ -1,1 +1,1 @@
-((-1, 924897)) =>  <code>  <p><code>(ans) variable is the sum of the differences of the initial value, and (mn) refers to min element of the initial array and (mx) refer to max element of initial array</code></p>    <code>  <p> <submission link> </p>
+ <code>  <p><code>(ans) variable is the sum of the differences of the initial value, and (mn) refers to min element of the initial array and (mx) refer to max element of initial array</code></p>    <code>  <p> <submission link> </p> <<===>> 

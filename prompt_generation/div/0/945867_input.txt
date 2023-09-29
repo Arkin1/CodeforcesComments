@@ -1,3 +1,3 @@
-((-1, 945867)) => <div class="ttypography"><p>when i looked at my submission after contest, i was surprised when i saw <code>wrong answer Statement not true: (i, j, x) = (78387, 31267, 38016256)</code></p><p>after that i used <code>assert</code> to check if the limit on every bit is satisfied. to my surprise, the <code>assert</code> doesn't happen.</p><p>can anyone tell me why? the submission id is  <submission link> </p></div>
-((945867, 945889)) => <div class="ttypography"><p>There are $$$q$$$ statements, but your solution reads $$$n$$$ statements only.</p></div>
-((945889, 945966)) => <div class="ttypography"><p>ohhhhhh thanks!!</p><p>when i noticed it, i really laughed out very loud </p></div>
+<div class="ttypography"><p>when i looked at my submission after contest, i was surprised when i saw <code>wrong answer Statement not true: (i, j, x) = (78387, 31267, 38016256)</code></p><p>after that i used <code>assert</code> to check if the limit on every bit is satisfied. to my surprise, the <code>assert</code> doesn't happen.</p><p>can anyone tell me why? the submission id is  <submission link> </p></div> <<===>> 
+<div class="ttypography"><p>There are $$$q$$$ statements, but your solution reads $$$n$$$ statements only.</p></div> <<===>> 
+<div class="ttypography"><p>ohhhhhh thanks!!</p><p>when i noticed it, i really laughed out very loud </p></div> <<===>> 

@@ -1,1 +1,1 @@
-((-1, 946827)) => <p>How can I solve problem C by Kadan's Algorithm? T.C : O(N)</p>
+<p>How can I solve problem C by Kadan's Algorithm? T.C : O(N)</p> <<===>> 

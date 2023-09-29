@@ -1,4 +1,4 @@
-((-1, 889597)) => <p>If you are/were getting a <strong>WA/RE</strong> verdict on any of the problems from this contest, you can get a small counter example for your submission on <a href="https://cfstress.com/">cfstress.com</a></p> <p>Problems added: "A, B, C, D, E, F".</p> <p>If you are not able to find a counter example even after changing the parameters, reply to this thread, mentioning the <strong>contest_id</strong>, <strong>problem_index</strong> and <strong>submission_id</strong>. </p>
-((889597, 922830)) => <p>contest id 1644 problem index C submission id 160707248</p> <p>getting WA in test case 9 </p>
-((922830, 922863)) => <p>Take a look at <a href="https://cfstress.com/status/12285">Ticket 12285</a> from <strong>CF Stress</strong> for a counter example.</p>
-((922863, 922895)) => <p>thanks </p>
+<p>If you are/were getting a <strong>WA/RE</strong> verdict on any of the problems from this contest, you can get a small counter example for your submission on <a href="https://cfstress.com/">cfstress.com</a></p> <p>Problems added: "A, B, C, D, E, F".</p> <p>If you are not able to find a counter example even after changing the parameters, reply to this thread, mentioning the <strong>contest_id</strong>, <strong>problem_index</strong> and <strong>submission_id</strong>. </p> <<===>> 
+<p>contest id 1644 problem index C submission id 160707248</p> <p>getting WA in test case 9 </p> <<===>> 
+<p>Take a look at <a href="https://cfstress.com/status/12285">Ticket 12285</a> from <strong>CF Stress</strong> for a counter example.</p> <<===>> 
+<p>thanks </p> <<===>> 

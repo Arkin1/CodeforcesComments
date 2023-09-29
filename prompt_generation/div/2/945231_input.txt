@@ -1,2 +1,2 @@
-((-1, 945231)) => <div class="ttypography"><p>Couldnt problem B be done with complexity O(n) ? I believe my  <submission link>  does it in O(n).</p></div>
-((945231, 945242)) => <div class="ttypography"><p>Yes, you can find the minimum and maximum in $$$O(n)$$$. But doing it twice is unnecessarily painful compared to sorting.</p></div>
+<div class="ttypography"><p>Couldnt problem B be done with complexity O(n) ? I believe my  <submission link>  does it in O(n).</p></div> <<===>> 
+<div class="ttypography"><p>Yes, you can find the minimum and maximum in $$$O(n)$$$. But doing it twice is unnecessarily painful compared to sorting.</p></div> <<===>> 

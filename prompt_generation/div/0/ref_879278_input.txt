@@ -1,5 +1,5 @@
-((-1, 879278)) => <p><strong>C</strong> can be solved in $$$O(n)$$$, walking though array backwards or using stack.</p>
-((879278, 879496)) => <p>Also using two pointers can achieve %O(n)%</p>
-((879496, 879581)) => <p>can you please give an explanation of your solution, I couldn't exactly figure out how it works. Thanks</p>
-((879581, 879879)) => <p> <submission link>  is my solution in Kotlin with backward approach.</p>
-((879879, 880379)) => <p>Could you explain your approach here please?</p>
+<p><strong>C</strong> can be solved in $$$O(n)$$$, walking though array backwards or using stack.</p> <<===>> 
+<p>Also using two pointers can achieve %O(n)%</p> <<===>> 
+<p>can you please give an explanation of your solution, I couldn't exactly figure out how it works. Thanks</p> <<===>> 
+<p> <submission link>  is my solution in Kotlin with backward approach.</p> <<===>> 
+<p>Could you explain your approach here please?</p> <<===>> 

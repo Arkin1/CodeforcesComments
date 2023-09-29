@@ -1,1 +1,1 @@
-((-1, 889728)) => <p>I am getting TLE for problem C but Idk why. My submission  <submission link> </p>
+<p>I am getting TLE for problem C but Idk why. My submission  <submission link> </p> <<===>> 

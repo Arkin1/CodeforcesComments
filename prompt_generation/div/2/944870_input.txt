@@ -1,5 +1,5 @@
-((-1, 944870)) => <div class="ttypography"><p>Didn't get the logic of i-512 in question D. Can anyone explain it in detail.</p></div>
-((944870, 945196)) => <div class="ttypography"><p>I think 400 is clearer. Because we need $$$a_{j}$$$ ^ $$$i$$$ &lt; $$$a_{i}$$$ ^ $$$j$$$ with $$$i&gt;j$$$ and $$$i,j$$$ is belong to the subseqenuce. We have $$$a_{} \le 200$$$，and operation xor can change the number +200 or -200 at most. So the extreme case is $$$i - 200 &lt; j + 200$$$,then it is $$$j &gt; i - 400$$$.</p></div>
-((945196, 945271)) => <div class="ttypography"><p>It means for each j we have to iterate till i-400?</p></div>
-((945271, 945556)) => <div class="ttypography"><p>It's just a easier solution for me. Its complexity is right. I learned we can use i-256 in this blog.</p></div>
-((945556, 945655)) => <div class="ttypography"><p>Ok</p></div>
+<div class="ttypography"><p>Didn't get the logic of i-512 in question D. Can anyone explain it in detail.</p></div> <<===>> 
+<div class="ttypography"><p>I think 400 is clearer. Because we need $$$a_{j}$$$ ^ $$$i$$$ &lt; $$$a_{i}$$$ ^ $$$j$$$ with $$$i&gt;j$$$ and $$$i,j$$$ is belong to the subseqenuce. We have $$$a_{} \le 200$$$，and operation xor can change the number +200 or -200 at most. So the extreme case is $$$i - 200 &lt; j + 200$$$,then it is $$$j &gt; i - 400$$$.</p></div> <<===>> 
+<div class="ttypography"><p>It means for each j we have to iterate till i-400?</p></div> <<===>> 
+<div class="ttypography"><p>It's just a easier solution for me. Its complexity is right. I learned we can use i-256 in this blog.</p></div> <<===>> 
+<div class="ttypography"><p>Ok</p></div> <<===>> 

@@ -1,5 +1,5 @@
-((-1, 940274)) => <p>Does anyone have a testcase that breaks my submission for C?  <submission link> </p>
-((940274, 940284)) => <p>Check these: </p>   <div class="spoiler"><b class="spoiler-title">input</b><div class="spoiler-content" style="display: none;"> <code> </div></div> <p>Your submission returns [19, 28, 20, 22], result is [17, 26, 18, 20]</p>
-((940284, 940286)) => <p>wait, shouldn't the top left element in each grid be 0?</p>
-((940286, 940287)) => <p>fixed it</p>
-((940287, 940294)) => <p>Thanks, I had swapped my row variable with my col variable.</p>
+<p>Does anyone have a testcase that breaks my submission for C?  <submission link> </p> <<===>> 
+<p>Check these: </p>   <div class="spoiler"><b class="spoiler-title">input</b><div class="spoiler-content" style="display: none;"> <code> </div></div> <p>Your submission returns [19, 28, 20, 22], result is [17, 26, 18, 20]</p> <<===>> 
+<p>wait, shouldn't the top left element in each grid be 0?</p> <<===>> 
+<p>fixed it</p> <<===>> 
+<p>Thanks, I had swapped my row variable with my col variable.</p> <<===>> 

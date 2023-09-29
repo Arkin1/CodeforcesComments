@@ -1,4 +1,4 @@
-((-1, 942594)) => <div class="ttypography"><p>Nice :)</p></div>
-((942594, 942824)) => <div class="ttypography"><p>Why did you say that? What's the point of making such remarks? Look, this sentence of yours wasted one precious second of my life, and the reply wasted 30 seconds.</p></div>
-((942824, 942853)) => <div class="ttypography"><p>:)))</p></div>
-((942824, 943407)) => <div class="ttypography"><p>you are right.I'd rather have a look at the code which has already been accepted</p></div>
+<div class="ttypography"><p>Nice :)</p></div> <<===>> 
+<div class="ttypography"><p>Why did you say that? What's the point of making such remarks? Look, this sentence of yours wasted one precious second of my life, and the reply wasted 30 seconds.</p></div> <<===>> 
+<div class="ttypography"><p>:)))</p></div> <<===>> 
+<div class="ttypography"><p>you are right.I'd rather have a look at the code which has already been accepted</p></div> <<===>> 

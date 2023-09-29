@@ -1,1 +1,1 @@
-((-1, 940190)) => <p>In problem C, at least for me, letting a_ij+1 be the time limit instead of aij is somehow frustrating, and the lack of explanation for samples make it even worse.</p>
+<p>In problem C, at least for me, letting a_ij+1 be the time limit instead of aij is somehow frustrating, and the lack of explanation for samples make it even worse.</p> <<===>> 
