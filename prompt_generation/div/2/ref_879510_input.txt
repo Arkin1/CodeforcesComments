@@ -1,1 +1,0 @@
-<p>D seems to have weak test cases  <submission link> </p> <p>I tried out the same idea as of editorial but instead of precomputing left. I just looped back to get the value which should make the solution n2logn. But got AC </p> <<===>> 

@@ -1,8 +1,8 @@
-<div class="ttypography"><p>In Problem-B it's mentioned that you cannot take subsegment of length = n (r — l — 1 &lt; n) but it is taking subsegment of length=n as a correct solution, please let me know if I am wrong.</p></div> <<===>> 
-<div class="ttypography"><p>In which test case ?</p></div> <<===>> 
-<div class="ttypography"><p>I don't know in which test case, but i am getting it wrong considering max length=n-1, and i have seen some correct solutions considering max length=n</p></div> <<===>> 
-<div class="ttypography"><p>u didn't take n size and the logic is simple behind it u just have to maximized last answer so for that reason u need only 4 index of sorted array first second last second last</p><p>then i will just select any of two index which doesn't have n size actually i can make it using r-l+1&lt;=n-1 just think</p></div> <<===>> 
-<div class="ttypography"><p>1 6 2 1 3 6 10 9 In this case, to satisfy your condition we have to take subsegment with l=1 and r=6 which is not satisfying r-l+1&lt;n. Please tell me where am i getting it wrong? Thanks </p></div> <<===>> 
-<div class="ttypography"><p>we also take l=4,r=7, so we end with max(al....ar)=10 and min(al....ar)=1(1 base index)</p><p>then we will get ans 9-1+10-1</p></div> <<===>> 
-<div class="ttypography"><p>Oh sorry, got it I misunderstood problem statement</p></div> <<===>> 
-<div class="ttypography"><p>also an answer in this case (n=8) is l=3,r=7, 7-3+1&lt;8 </p></div> <<===>> 
+((-1, 944798)) <<===>> ["In Problem-B it's mentioned that you cannot take subsegment of length = n (r — l — 1 < n) but it is taking subsegment of length=n as a correct solution, please let me know if I am wrong."] [<<<new_com>>>]
+((944798, 944807)) <<===>> ['In which test case ?'] [<<<new_com>>>]
+((944807, 944812)) <<===>> ["I don't know in which test case, but i am getting it wrong considering max length=n-1, and i have seen some correct solutions considering max length=n"] [<<<new_com>>>]
+((944812, 944827)) <<===>> ["u didn't take n size and the logic is simple behind it u just have to maximized last answer so for that reason u need only 4 index of sorted array first second last second lastthen i will just select any of two index which doesn't have n size actually i can make it using r-l+1<=n-1 just think"] [<<<new_com>>>]
+((944827, 944829)) <<===>> ['1 6 2 1 3 6 10 9 In this case, to satisfy your condition we have to take subsegment with l=1 and r=6 which is not satisfying r-l+1<n. Please tell me where am i getting it wrong? Thanks '] [<<<new_com>>>]
+((944829, 944835)) <<===>> ['we also take l=4,r=7, so we end with max(al....ar)=10 and min(al....ar)=1(1 base index)then we will get ans 9-1+10-1'] [<<<new_com>>>]
+((944829, 944838)) <<===>> ['Oh sorry, got it I misunderstood problem statement'] [<<<new_com>>>]
+((944829, 944844)) <<===>> ['also an answer in this case (n=8) is l=3,r=7, 7-3+1<8 '] [<<<new_com>>>]

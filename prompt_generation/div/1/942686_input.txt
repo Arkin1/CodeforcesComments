@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Great contest!</p></div> <<===>> 
+((-1, 942686)) <<===>> ['Great contest!'] [<<<new_com>>>]

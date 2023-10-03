@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Can E2 be solved using sqrt decomposition?</p></div> <<===>> 
+((-1, 942613)) <<===>> ['Can E2 be solved using sqrt decomposition?'] [<<<new_com>>>]

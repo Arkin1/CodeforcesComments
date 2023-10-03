@@ -1,2 +1,0 @@
-((-1, 943104)) => <div class="ttypography"><p>Can somebody help me out with Problem D :  <submission link> </p><p>My approach is ans = max( min(2 * mn , min(a[i],a[i+1]))) , where mn is the minimum value of a. </p></div>
-((943104, 943113)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16035">Ticket 16035</a> from <strong>CF Stress</strong> for a counter example.</p></div>

@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Can somebody help me out with Problem D :  <submission link> </p><p>My approach is ans = max( min(2 * mn , min(a[i],a[i+1]))) , where mn is the minimum value of a. </p></div> <<===>> 
-<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16035">Ticket 16035</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 
+((-1, 943104)) <<===>> ['Can somebody help me out with Problem D :  (link to problem Irrelevant) My approach is ans = max( min(2 * mn , min(a[i],a[i+1]))) , where mn is the minimum value of a. '] [<<<new_com>>>]
+((943104, 943113)) <<===>> ['Take a look at Ticket 16035 from CF Stress for a counter example.'] [<<<new_com>>>]

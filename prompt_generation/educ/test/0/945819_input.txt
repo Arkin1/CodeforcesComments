@@ -1,1 +1,0 @@
-((-1, 945819)) => <div class="ttypography"><p>Hey guys, could problem D be solved by sqrt decomposition?</p></div>

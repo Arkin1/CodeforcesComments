@@ -1,2 +1,2 @@
-<div class="ttypography"><p>In author solution for problem E why is it: while (ll.size() &gt;= 2 &amp;&amp; l.intersect(ll[ll.size() — 2]) &lt;= x.back())</p><p>and not: while (ll.size() &gt;= 2 &amp;&amp; l.intersect(ll[ll.size() — 2]) <strong>&gt;=</strong> x.back())</p><p>won't the authors solution remove lines from the Convex Hull that actualy need to be in it.</p></div> <<===>> 
-<div class="ttypography"><p>Figured it out.. brain fart</p><p>We are searching for Min not Max .</p></div> <<===>> 
+((-1, 950090)) <<===>> ["In author solution for problem E why is it: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) <= x.back())and not: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) >= x.back())won't the authors solution remove lines from the Convex Hull that actualy need to be in it."] [<<<new_com>>>]
+((950090, 950091)) <<===>> ['Figured it out.. brain fartWe are searching for Min not Max .'] [<<<new_com>>>]

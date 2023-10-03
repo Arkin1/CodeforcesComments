@@ -1,2 +1,2 @@
-<div class="ttypography"><p>C :</p><p>wHERE IS MISTAKE , iT'S FALLING ON 2ND TEST CASE</p><p><a href="https://codeforces.com/problemset/submission/1712/170962914">https://codeforces.com/problemset/submission/1712/170962914</a></p></div> <<===>> 
-<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16172">Ticket 16172</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 
+((-1, 950110)) <<===>> ["C :wHERE IS MISTAKE , iT'S FALLING ON 2ND TEST CASEhttps://codeforces.com/problemset/submission/1712/170962914"] [<<<new_com>>>]
+((950110, 953385)) <<===>> ['Take a look at Ticket 16172 from CF Stress for a counter example.'] [<<<new_com>>>]

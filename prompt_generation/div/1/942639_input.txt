@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Easiest Div2C ever?</p></div> <<===>> 
-<div class="ttypography"><p>Yes probably. Some newbies solved all A,B,C and still got negative delta.</p></div> <<===>> 
+((-1, 942639)) <<===>> ['Easiest Div2C ever?'] [<<<new_com>>>]
+((942639, 942887)) <<===>> ['Yes probably. Some newbies solved all A,B,C and still got negative delta.'] [<<<new_com>>>]

@@ -1,2 +1,2 @@
-<div class="ttypography"><p>B Bonus: try to prove the solution without the editorial!</p><p>Me: Use the data!</p></div> <<===>> 
-<div class="ttypography"><p>666</p></div> <<===>> 
+((-1, 942765)) <<===>> ['B Bonus: try to prove the solution without the editorial!Me: Use the data!'] [<<<new_com>>>]
+((942765, 942799)) <<===>> ['666'] [<<<new_com>>>]

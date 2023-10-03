@@ -1,1 +1,1 @@
-<div class="ttypography"><p>The system tests of problem <code>D</code> are too weak. Will it be retested?</p></div> <<===>> 
+((-1, 945902)) <<===>> ['The system tests of problem  (code)  are too weak. Will it be retested?'] [<<<new_com>>>]

@@ -1,3 +1,0 @@
-((-1, 945787)) => Irrelevant
-((945787, 945799)) => Irrelevant
-((945799, 945908)) => Irrelevant

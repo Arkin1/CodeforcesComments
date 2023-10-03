@@ -1,1 +1,0 @@
-<p>Problem C can be solved with $$$\mathcal O(n)$$$.</p> <<===>> 

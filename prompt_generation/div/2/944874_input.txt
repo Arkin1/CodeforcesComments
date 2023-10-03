@@ -1,4 +1,4 @@
-<div class="ttypography"><p>Could anyone explain what mistake I made for A?  <submission link> </p></div> <<===>> 
-<div class="ttypography"><p>Float division is inaccurate. Minimize the use of that.</p></div> <<===>> 
-<div class="ttypography"><p> <submission link> </p><p>I slightly modified your code and it ac'ed.</p></div> <<===>> 
-<div class="ttypography"><p>thanks for the help :)</p></div> <<===>> 
+((-1, 944874)) <<===>> ['Could anyone explain what mistake I made for A?  (link to problem A) '] [<<<new_com>>>]
+((944874, 944876)) <<===>> ['Float division is inaccurate. Minimize the use of that.'] [<<<new_com>>>]
+((944874, 944878)) <<===>> [" (link to problem Irrelevant) I slightly modified your code and it ac'ed."] [<<<new_com>>>]
+((944878, 944892)) <<===>> ['thanks for the help :)'] [<<<new_com>>>]

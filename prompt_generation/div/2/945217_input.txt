@@ -1,1 +1,1 @@
-<div class="ttypography"><blockquote><p>(all appeareances of this numbers are in <strong>thsi</strong> square)</p> </blockquote><p>——(In the tutorial of E)</p></div> <<===>> 
+((-1, 945217)) <<===>> ['(all appeareances of this numbers are in thsi square) ——(In the tutorial of E)'] [<<<new_com>>>]

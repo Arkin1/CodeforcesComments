@@ -1,2 +1,2 @@
-((-1, 907578)) <<===>> SubQuestion
-((907578, 907640)) <<===>> Irrelevant
+((-1, 907578)) <<===>> SubQuestion [<<<new_com>>>]
+((907578, 907640)) <<===>> Irrelevant [<<<new_com>>>]

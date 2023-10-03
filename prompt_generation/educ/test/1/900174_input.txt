@@ -1,3 +1,3 @@
-<p>Can someone please help me with this solution? I am not getting why this sol isn't working, it would be great if someone can suggest a test ( of reasonable length)case in which it fails . <submission link> </p> <p><strong>PS:</strong> I tried finding the array with the largest possible sum and its length (**let l **) and for all values of k &lt;= l, I added k*x to the max sum and for all k &gt; l, I checked for subarray of size k with the largest sum and printed max of ( prev_sum, (cur_sum + k*x)). </p> <<===>> 
-<p><strong>Failing testcase</strong>: <a href="https://cfstress.com/status/2989">Ticket 2989</a> </p> <<===>> 
-<p>Thanks, got it finally .</p> <<===>> 
+((-1, 900174)) <<===>> ["Can someone please help me with this solution? I am not getting why this sol isn't working, it would be great if someone can suggest a test ( of reasonable length)case in which it fails . (link to problem C)  PS: I tried finding the array with the largest possible sum and its length (**let l **) and for all values of k <= l, I added k*x to the max sum and for all k > l, I checked for subarray of size k with the largest sum and printed max of ( prev_sum, (cur_sum + k*x)). "] [<<<new_com>>>]
+((900174, 900181)) <<===>> ['Failing testcase: Ticket 2989 '] [<<<new_com>>>]
+((900181, 900219)) <<===>> ['Thanks, got it finally .'] [<<<new_com>>>]

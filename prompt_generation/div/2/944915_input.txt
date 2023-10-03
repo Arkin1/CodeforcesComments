@@ -1,2 +1,2 @@
-<div class="ttypography"> <code> </div> <<===>> 
-<div class="ttypography"><p>can a[j]^i really reduce i by 256. I mean according to me, it can reduce it by 200 atmost. If it can, can you please give any example.</p></div> <<===>> 
+((-1, 944915)) <<===>> [' (code) '] [<<<new_com>>>]
+((944915, 946711)) <<===>> ['can a[j]^i really reduce i by 256. I mean according to me, it can reduce it by 200 atmost. If it can, can you please give any example.'] [<<<new_com>>>]

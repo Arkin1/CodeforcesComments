@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Thanks for amazing round and tutorial but there is a small mistake Div2B Hint 3 </p><p>lcm(x, x + 1) + lcm(x + 1, x) = x² + (x + 1)²-1</p></div> <<===>> 
-<div class="ttypography"><p>Fixed</p></div> <<===>> 
+((-1, 943445)) <<===>> ['Thanks for amazing round and tutorial but there is a small mistake Div2B Hint 3 lcm(x, x + 1) + lcm(x + 1, x) = x² + (x + 1)²-1'] [<<<new_com>>>]
+((943445, 943446)) <<===>> ['Fixed'] [<<<new_com>>>]

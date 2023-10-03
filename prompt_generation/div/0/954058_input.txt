@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Why does my solution for Problem D give TLE, pls someone explain. <submission link> </p></div> <<===>> 
+((-1, 954058)) <<===>> ['Why does my solution for Problem D give TLE, pls someone explain. (link to problem Irrelevant) '] [<<<new_com>>>]

@@ -1,3 +1,0 @@
-((-1, 949007)) => <div class="ttypography"><p>Is there anyone who can help with my failed submissions? I can't find any differences between the answer and my solution. It always turns out to be WA on test 8.  <submission link> </p></div>
-((949007, 949433)) => <div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16151">Ticket 16151</a> from <strong>CF Stress</strong> for a counter example.</p></div>
-((949433, 949775)) => <div class="ttypography"><p>I see. Thanks a lot!</p></div>

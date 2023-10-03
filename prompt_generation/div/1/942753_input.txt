@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Why should i to find 6 and 15 in problem E1? How can I think that way. I see tourist's solution seemed iterate in 30 to find such special case. It shows that he is trying to find such special case.</p></div> <<===>> 
-<div class="ttypography"><p>For small numbers multiplication funtion has a low growing, so the idea is use BruteForce for those small values</p></div> <<===>> 
+((-1, 942753)) <<===>> ["Why should i to find 6 and 15 in problem E1? How can I think that way. I see tourist's solution seemed iterate in 30 to find such special case. It shows that he is trying to find such special case."] [<<<new_com>>>]
+((942753, 942767)) <<===>> ['For small numbers multiplication funtion has a low growing, so the idea is use BruteForce for those small values'] [<<<new_com>>>]

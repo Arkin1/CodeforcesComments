@@ -1,3 +1,0 @@
-((-1, 946379)) => SubQuestion
-((946379, 946454)) => Irrelevant
-((946454, 946461)) => FixingExp

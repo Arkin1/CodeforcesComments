@@ -1,1 +1,0 @@
-((-1, 943519)) => <div class="ttypography"><p>We can probably prove problem B by induction? In addition, I don't understand this sentence in problem B:</p> <blockquote><p>So we need to minimize the sum of $$$max(x1…xk)−min(x1…xk)$$$ over all cycles.</p> </blockquote><p>Could anyone please explain it? </p> <hr /><p>Sory for my poor English.</p></div>

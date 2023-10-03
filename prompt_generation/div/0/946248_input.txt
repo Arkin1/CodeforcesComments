@@ -1,4 +1,4 @@
-<div class="ttypography"><p><a class="rated-user user-green" href="/profile/rockstar_an" title="Ученик rockstar_an">rockstar_an</a> is the best, thanks to him I'm an Expert.</p><p>PS : He is my dad :)</p></div> <<===>> 
-<div class="ttypography"><p>Thanks my son.</p></div> <<===>> 
-<div class="ttypography"><p>Best father-son duo. Tears :')</p></div> <<===>> 
-<div class="ttypography"><p>Best duo.</p></div> <<===>> 
+((-1, 946248)) <<===>> ["rockstar_an is the best, thanks to him I'm an Expert.PS : He is my dad :)"] [<<<new_com>>>]
+((946248, 946249)) <<===>> ['Thanks my son.'] [<<<new_com>>>]
+((946249, 946252)) <<===>> ["Best father-son duo. Tears :')"] [<<<new_com>>>]
+((946248, 946254)) <<===>> ['Best duo.'] [<<<new_com>>>]

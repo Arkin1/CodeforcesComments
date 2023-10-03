@@ -1,0 +1,38 @@
+Hello ChatGPT. I want you remember all your knowledge in competitive programming and help me label a couple of things. 
+
+I will give you a couple of comments from Codeforces from a specific blog round. I want you to label each comment based on the following labels SolutionExp, HintExp, AlgoExp, TimeComExp, FixingExp, TextExp, QuestionExp, SubQuestion, TestQuestion, Irrelevant. A short description of the labels can be seen below :
+
+SolutionExp  -  A comment which explains in detail how to solve a problem, more like a step by step guide. 
+HintExp   -  It can be viewed as a sparse variant of SolutionExp in which just various elements from an entire solution are presented. 
+AlgoExp   -  A comment which states the algorithm used and the submission link with little to no information. 
+TimeComExp  - A comment which states the complexity and the submission link with little to no information.
+FixingExp   - A comment which explains or gives a hint in how to solve a specific bug in an implementation
+TextExp    - A comment which explains the result of an output test for a given problem. 
+QuestionExp   -  A relevant question about a specific problem in the contest.
+SubQuestion  -  A comment which asks insights about why a submission fails. 
+TestQuestion  -  A comment which asks insights about the result of a specific input test. 
+Irrelevant   -  Any other comment which doesn't fit in the labels defined above.  
+
+A comment will have the following structure:
+Text <<===>> the label of the comment.
+
+
+I will provide you with some correctly labelled example.
+
+For example:
+I really loved this round!. <<===>> Irrelevant.
+Yeah it was pretty cool especially problem C which can be solved  with binary search. <submission link>. <<===>> AlgoExp
+Here is how I solved problem C. The problem gives as multiple queries and an array. Each query asks us to see if an element is in
+the array or not. To solve the problem, I sorted the array in ascending order using merge sort and for each query I used binary search to find
+if the element is in array or not. Total complexity is $$$N*log(N) + Q*log(N)$$$. Here is my submission: <submission link> <<===>> SolutionExp
+There is no need to solve the problem using sorting and binary search, a hash can suffice. <<===>> HintExp
+I solved the problem in O(n). Here is my submission <submission link> <<===>> TimeComExp
+How to solve problem D?? <<===>> QuestionExp
+Can somebody tell me why I am getting wrong answer on preset 3, here is my submission <submission link> <<===>> SubQuestion
+You should do floating division and not integer division. <<===>> FixingExp
+Why the result in the first test case is 1 and not 3? <<===>> TestQuestion
+In the statement it says that odd numbers should be counted.  <<===>> TextExp
+
+
+Please encode the previous explanation of the labelling in a variable named %rule%. Whenever I use %rule% in a text, you should follow the exact rules I specified
+above. Please respond with the correct label without repeating the text I give you.

@@ -1,1 +1,0 @@
-((-1, 945864)) => <div class="ttypography"><p>C is fraudulent, as I am amazed by the simple solution. (My friend typed a segment tree to solve it)</p><p>D is too easy, because the train of thought is obvious and normal.</p></div>

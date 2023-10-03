@@ -1,1 +1,1 @@
-<p>My submission for problem D.  <submission link>  Anybody please tell me where and why the code fails</p> <<===>> 
+((-1, 914249)) <<===>> ['My submission for problem D.  (link to problem D)  Anybody please tell me where and why the code fails'] [<<<new_com>>>]

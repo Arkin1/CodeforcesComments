@@ -1,1 +1,0 @@
-((-1, 942808)) => <div class="ttypography"><p>I think problem D is much harder than problem C.I solved C in ten minutes but didn't solve D in the contest.</p></div>

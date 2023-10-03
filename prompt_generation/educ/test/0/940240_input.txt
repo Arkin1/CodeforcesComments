@@ -1,2 +1,2 @@
-<p>Can anyone who used prefix sums for calculating $$$dp[i][j]$$$ for D share their code? I'm having trouble implementing it.</p> <<===>> 
-<p>Here is my  <submission link> </p> <p>There is a commented while block that may be easier to read, since it builds the entire 2D table instead of maintaining only 2 rows. It still uses a colsum vector that keeps track of the sum of each column so far. </p> <<===>> 
+((-1, 940240)) <<===>> ["Can anyone who used prefix sums for calculating $$$dp[i][j]$$$ for D share their code? I'm having trouble implementing it."] [<<<new_com>>>]
+((940240, 940275)) <<===>> ['Here is my  (link to problem D)  There is a commented while block that may be easier to read, since it builds the entire 2D table instead of maintaining only 2 rows. It still uses a colsum vector that keeps track of the sum of each column so far. '] [<<<new_com>>>]

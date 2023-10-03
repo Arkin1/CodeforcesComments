@@ -1,3 +1,3 @@
-<div class="ttypography"><p>Got TLE on TC33 of problem C.</p><p>How to optimise this  <submission link> </p></div> <<===>> 
-<div class="ttypography"><p>Instead of map&lt;ll,vll&gt;, make map&lt;ll,ll&gt; m.Store the last position of each number in there.Then you don't have iterate over vectors.Just mx=max(mx,m[v[i]]);</p></div> <<===>> 
-<div class="ttypography"><p>Accepted</p><p>Thanks vro...</p><p> <submission link> </p></div> <<===>> 
+((-1, 942707)) <<===>> ['Got TLE on TC33 of problem C.How to optimise this  (link to problem C) '] [<<<new_com>>>]
+((942707, 942718)) <<===>> ["Instead of map<ll,vll>, make map<ll,ll> m.Store the last position of each number in there.Then you don't have iterate over vectors.Just mx=max(mx,m[v[i]]);"] [<<<new_com>>>]
+((942718, 942722)) <<===>> ['AcceptedThanks vro... (link to problem Irrelevant) '] [<<<new_com>>>]

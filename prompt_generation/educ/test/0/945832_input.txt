@@ -1,1 +1,0 @@
-((-1, 945832)) => <div class="ttypography"><p><a href="https://youtu.be/tgi1rSy_o-A">Problem D video editorial</a></p></div>

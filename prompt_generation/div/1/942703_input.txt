@@ -1,1 +1,1 @@
-<div class="ttypography"><p>as a #008000 rated, I enjoyed solving C </p></div> <<===>> 
+((-1, 942703)) <<===>> ['as a #008000 rated, I enjoyed solving C '] [<<<new_com>>>]

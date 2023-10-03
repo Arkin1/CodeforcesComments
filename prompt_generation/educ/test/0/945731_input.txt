@@ -1,2 +1,0 @@
-((-1, 945731)) => <div class="ttypography"><p>Trash contest</p></div>
-((945731, 945749)) => <div class="ttypography"><p>no u</p></div>

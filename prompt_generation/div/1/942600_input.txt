@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Problem D is one of the best problems I’ve ever seen. Overall, round is awesome. Hope to see more such great contests!</p></div> <<===>> 
+((-1, 942600)) <<===>> ['Problem D is one of the best problems I’ve ever seen. Overall, round is awesome. Hope to see more such great contests!'] [<<<new_com>>>]

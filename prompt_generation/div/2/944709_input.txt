@@ -1,7 +1,7 @@
-<div class="ttypography"><p>A was a bit too tedious for a task in such a place, and I think many contestants today gave up completely because they cannot finish A.</p><p>All of the other problems are really nice, though.</p></div> <<===>> 
-<div class="ttypography"><p>Didn't gave up. Tried till last minute. Yet couldn't manage to solve A :V </p></div> <<===>> 
-<div class="ttypography"><p>I just quit A, and thankfully I solved C, which I usually dont do in a div 2</p></div> <<===>> 
-<div class="ttypography"><p>Deciding to quit before submitting A is not giving up, it is strategy.</p></div> <<===>> 
-<div class="ttypography"><p>I agree with you, I did this strategy in this contest.</p></div> <<===>> 
-<div class="ttypography"><p>i was also stuck in first problem.</p></div> <<===>> 
-<div class="ttypography"><p>It is a shame that I have been stuck in A for 1h. Luckly, I skip A and solve B&amp;C in 20 minutes.</p></div> <<===>> 
+((-1, 944709)) <<===>> ['A was a bit too tedious for a task in such a place, and I think many contestants today gave up completely because they cannot finish A.All of the other problems are really nice, though.'] [<<<new_com>>>]
+((944709, 944729)) <<===>> ["Didn't gave up. Tried till last minute. Yet couldn't manage to solve A :V "] [<<<new_com>>>]
+((944729, 944866)) <<===>> ['I just quit A, and thankfully I solved C, which I usually dont do in a div 2'] [<<<new_com>>>]
+((944709, 944823)) <<===>> ['Deciding to quit before submitting A is not giving up, it is strategy.'] [<<<new_com>>>]
+((944823, 946208)) <<===>> ['I agree with you, I did this strategy in this contest.'] [<<<new_com>>>]
+((944709, 945266)) <<===>> ['i was also stuck in first problem.'] [<<<new_com>>>]
+((944709, 945366)) <<===>> ['It is a shame that I have been stuck in A for 1h. Luckly, I skip A and solve B&C in 20 minutes.'] [<<<new_com>>>]

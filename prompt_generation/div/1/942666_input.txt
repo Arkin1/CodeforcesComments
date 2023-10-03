@@ -1,4 +1,4 @@
-<div class="ttypography"><p>Can someone please tell me why i get WA with  <submission link>  for problem D (greedy solution)?</p></div> <<===>> 
-<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16031">Ticket 16031</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 
-<div class="ttypography"><p>can you check for C ; <a href="https://codeforces.com/problemset/submission/1712/170962914">https://codeforces.com/problemset/submission/1712/170962914</a></p></div> <<===>> 
-<div class="ttypography"><p><a class="rated-user user-blue" href="/profile/mircea_007" title="Expert mircea_007">mircea_007</a> I did the same using priority queue but end up getting WA.</p></div> <<===>> 
+((-1, 942666)) <<===>> ['Can someone please tell me why i get WA with  (link to problem Irrelevant)  for problem D (greedy solution)?'] [<<<new_com>>>]
+((942666, 942681)) <<===>> ['Take a look at Ticket 16031 from CF Stress for a counter example.'] [<<<new_com>>>]
+((942681, 950113)) <<===>> ['can you check for C ; https://codeforces.com/problemset/submission/1712/170962914'] [<<<new_com>>>]
+((942666, 942881)) <<===>> ['mircea_007 I did the same using priority queue but end up getting WA.'] [<<<new_com>>>]

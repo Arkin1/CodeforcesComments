@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Problem F: Life will be harder if the query polygon must have all of its points lying inside the field. (This is the problem statement came from my misunderstood :)). </p></div> <<===>> 
+((-1, 946245)) <<===>> ['Problem F: Life will be harder if the query polygon must have all of its points lying inside the field. (This is the problem statement came from my misunderstood :)). '] [<<<new_com>>>]

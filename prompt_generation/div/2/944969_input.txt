@@ -1,1 +1,1 @@
-<div class="ttypography"><p>It seems that $$$cur$$$ is not used in the solution of Div2 D1.</p>  <code> </div> <<===>> 
+((-1, 944969)) <<===>> ['It seems that $$$cur$$$ is not used in the solution of Div2 D1.  (code) '] [<<<new_com>>>]

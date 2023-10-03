@@ -1,2 +1,0 @@
-((-1, 942801)) => <div class="ttypography"><p>In fact, we can prove in E1, $$$j = \frac{2}{3}k$$$ if $$$\operatorname{lcm}(i, j, k) = 2 \cdot k$$$ and $$$i + j &gt; k$$$. So we can solve this problem in complexity $$$\mathcal O(n \sqrt n + \sum_{i = 1}^n \sigma_0(i))$$$ per testcase, which is faster than the editorial.</p><p>code  <submission link> </p></div>
-((942801, 942888)) => <div class="ttypography"><p>Yes, but I don't really like number theory, so I didn't want to include more of it in the solution.</p></div>

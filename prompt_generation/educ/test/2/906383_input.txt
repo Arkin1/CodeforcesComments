@@ -1,2 +1,2 @@
-<p>Can someone explain the hashing solution for E?</p> <<===>> 
-<p>did you find any idea about it ? </p> <<===>> 
+((-1, 906383)) <<===>> ['Can someone explain the hashing solution for E?'] [<<<new_com>>>]
+((906383, 917131)) <<===>> ['did you find any idea about it ? '] [<<<new_com>>>]

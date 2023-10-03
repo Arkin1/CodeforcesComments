@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Observation forces</p></div> <<===>> 
-<div class="ttypography"><p>very fitting handle for today's contest</p></div> <<===>> 
+((-1, 944696)) <<===>> ['Observation forces'] [<<<new_com>>>]
+((944696, 944914)) <<===>> ["very fitting handle for today's contest"] [<<<new_com>>>]

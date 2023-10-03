@@ -1,2 +1,0 @@
-((-1, 950090)) => <div class="ttypography"><p>In author solution for problem E why is it: while (ll.size() &gt;= 2 &amp;&amp; l.intersect(ll[ll.size() — 2]) &lt;= x.back())</p><p>and not: while (ll.size() &gt;= 2 &amp;&amp; l.intersect(ll[ll.size() — 2]) <strong>&gt;=</strong> x.back())</p><p>won't the authors solution remove lines from the Convex Hull that actualy need to be in it.</p></div>
-((950090, 950091)) => <div class="ttypography"><p>Figured it out.. brain fart</p><p>We are searching for Min not Max .</p></div>

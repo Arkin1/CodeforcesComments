@@ -1,2 +1,2 @@
-<div class="ttypography"><p>What is the solution for F Bonus?</p></div> <<===>> 
-<div class="ttypography"><p>Did you solve the original F problem first?</p></div> <<===>> 
+((-1, 943078)) <<===>> ['What is the solution for F Bonus?'] [<<<new_com>>>]
+((943078, 943125)) <<===>> ['Did you solve the original F problem first?'] [<<<new_com>>>]

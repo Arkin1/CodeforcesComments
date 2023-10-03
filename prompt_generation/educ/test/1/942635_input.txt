@@ -1,1 +1,0 @@
-((-1, 942635)) => <div class="ttypography"><p>C can also be solved using binary search.</p><p>Find the minimum $$$k$$$ such that the array remains sorted if the first unique $$$k$$$ instances of the array are converted to $$$0$$$.</p><p>Solution:  <submission link> </p></div>

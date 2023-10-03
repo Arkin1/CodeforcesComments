@@ -1,2 +1,2 @@
-<p>In problem E, can anyone explain how are we checking the equality of equivalence classes using just the lexicographically smallest string in preorder?</p> <<===>> 
-<p>If you were able to understand could you please explain?</p> <<===>> 
+((-1, 911846)) <<===>> ['In problem E, can anyone explain how are we checking the equality of equivalence classes using just the lexicographically smallest string in preorder?'] [<<<new_com>>>]
+((911846, 920223)) <<===>> ['If you were able to understand could you please explain?'] [<<<new_com>>>]

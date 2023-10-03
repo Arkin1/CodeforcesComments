@@ -1,5 +1,0 @@
-<p><strong>C</strong> can be solved in $$$O(n)$$$, walking though array backwards or using stack.</p> <<===>> 
-<p>Also using two pointers can achieve %O(n)%</p> <<===>> 
-<p>can you please give an explanation of your solution, I couldn't exactly figure out how it works. Thanks</p> <<===>> 
-<p> <submission link>  is my solution in Kotlin with backward approach.</p> <<===>> 
-<p>Could you explain your approach here please?</p> <<===>> 

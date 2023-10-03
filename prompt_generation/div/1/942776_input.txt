@@ -1,1 +1,1 @@
-<div class="ttypography"><p>In my opinion, E1 and E2 are good problems. Thanks for the great contest!</p></div> <<===>> 
+((-1, 942776)) <<===>> ['In my opinion, E1 and E2 are good problems. Thanks for the great contest!'] [<<<new_com>>>]

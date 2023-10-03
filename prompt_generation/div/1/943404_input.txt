@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Can anyone tell me why I got the wrong answer in  <submission link>  of problem d?</p></div> <<===>> 
-<div class="ttypography"><p>Take a look at <a href="https://cfstress.com/status/16040">Ticket 16040</a> from <strong>CF Stress</strong> for a counter example.</p></div> <<===>> 
+((-1, 943404)) <<===>> ['Can anyone tell me why I got the wrong answer in  (link to problem Irrelevant)  of problem d?'] [<<<new_com>>>]
+((943404, 943469)) <<===>> ['Take a look at Ticket 16040 from CF Stress for a counter example.'] [<<<new_com>>>]

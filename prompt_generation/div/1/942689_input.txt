@@ -1,1 +1,1 @@
-<div class="ttypography"><p>A,B,C Solution. <a href="https://www.youtube.com/watch?v=VGVJ8uQMQDw">https://www.youtube.com/watch?v=VGVJ8uQMQDw</a></p></div> <<===>> 
+((-1, 942689)) <<===>> ['A,B,C Solution. https://www.youtube.com/watch?v=VGVJ8uQMQDw'] [<<<new_com>>>]

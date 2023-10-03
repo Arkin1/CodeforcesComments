@@ -43,13 +43,12 @@ class ChatGPTAutomation:
             return s.getsockname()[1]
 
 
-
     def launch_chrome_with_remote_debugging(self, port, url):
         """ Launches a new Chrome instance with remote debugging enabled on the specified port and navigates to the
             provided url """
 
         def open_chrome():
-            chrome_cmd = f"{self.chrome_path}  --user-data-dir=D:\Work --remote-debugging-port={port} {url}"
+            chrome_cmd = f"{self.chrome_path}  --user-data-dir=C:\SeleniumData --remote-debugging-port={port} {url}"
             os.system(chrome_cmd)
 
         chrome_thread = threading.Thread(target=open_chrome)
@@ -191,7 +190,7 @@ total_chars = 0
 comments = [comment for tree in round_trees.values() for comment in tree['input'].split('<<===>>')[:-1]]
 for tree_data in comments:
     if(total_chars == 0):
-        chatgpt = ChatGPTAutomation('\"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
+        chatgpt = ChatGPTAutomation('\"C:/Program^ Files/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
         chatgpt.send_prompt_to_chatgpt(prompt)
         total_chars+= len(prompt)
     # idx = 0
@@ -211,7 +210,7 @@ for tree_data in comments:
         chatgpt.quit()
         total_chars = 0
 
-        chatgpt = ChatGPTAutomation('\"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
+        chatgpt = ChatGPTAutomation('\"C:/Program^ Files/Google/Chrome/Application/chrome.exe\"', 'chromedriver.exe')
         chatgpt.send_prompt_to_chatgpt(prompt)
         total_chars+= len(prompt)
         continue

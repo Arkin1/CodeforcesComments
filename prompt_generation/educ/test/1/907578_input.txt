@@ -1,2 +1,2 @@
-<p>I am doing question D the same way, but getting a wrong answer. I have used a set to store the rows and columns and then proceed with the maximum size among the two. Can anyone help me out, please? Link for my solution:  <submission link> </p> <<===>> 
-<p><strong>Failing testcase</strong>: <a href="https://cfstress.com/status/6147">Ticket 6147</a> </p> <<===>> 
+((-1, 907578)) <<===>> ['I am doing question D the same way, but getting a wrong answer. I have used a set to store the rows and columns and then proceed with the maximum size among the two. Can anyone help me out, please? Link for my solution:  (link to problem D) '] [<<<new_com>>>]
+((907578, 907640)) <<===>> ['Failing testcase: Ticket 6147 '] [<<<new_com>>>]

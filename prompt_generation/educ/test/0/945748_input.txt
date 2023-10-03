@@ -1,3 +1,0 @@
-((-1, 945748)) => <div class="ttypography"><p>I think convex hull trick is too complicated for div2 E, please don't add such tasks</p></div>
-((945748, 945757)) => <div class="ttypography"><p>You can also do it with D&amp;C dp, I think this was a nice question. You learn these tricks but there aren't many &quot;easy&quot; questions on them because they are generally reserved for harder problems with more observation. This was a simple application and personally I got a nice Aha moment when realising I could use D&amp;C, imo this way you get a chance to build an intuition for them</p></div>
-((945748, 945836)) => <div class="ttypography"><p>my hands finally knows about CHT by this task</p></div>

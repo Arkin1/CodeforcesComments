@@ -1,4 +1,0 @@
-((-1, 942737)) => <div class="ttypography"><p>Difficulties like -&gt;Easy -&gt; Easy -&gt; Easy -&gt; Hard -&gt; Hard -&gt; Hard -&gt; Hard</p></div>
-((942737, 942739)) => <div class="ttypography"><p>E1 and E2 not hard</p></div>
-((942739, 942750)) => <div class="ttypography"><p>you didnt solve them tho?</p></div>
-((942750, 942798)) => <div class="ttypography"><p>But E1 and E2 not hard </p></div>

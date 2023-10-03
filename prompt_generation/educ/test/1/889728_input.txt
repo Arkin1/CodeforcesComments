@@ -1,1 +1,1 @@
-<p>I am getting TLE for problem C but Idk why. My submission  <submission link> </p> <<===>> 
+((-1, 889728)) <<===>> ['I am getting TLE for problem C but Idk why. My submission  (link to problem C) '] [<<<new_com>>>]

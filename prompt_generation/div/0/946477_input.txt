@@ -1,1 +1,1 @@
-<div class="ttypography"><p>I disagree with Advice #0. You should always consider risk of wasting time on implementation of solution. And thinking about proof and trying to prove may save you from that.</p></div> <<===>> 
+((-1, 946477)) <<===>> ['I disagree with Advice #0. You should always consider risk of wasting time on implementation of solution. And thinking about proof and trying to prove may save you from that.'] [<<<new_com>>>]

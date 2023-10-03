@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Can anyone explain the editorial of <strong>problem D2</strong>?</p></div> <<===>> 
+((-1, 944927)) <<===>> ['Can anyone explain the editorial of problem D2?'] [<<<new_com>>>]

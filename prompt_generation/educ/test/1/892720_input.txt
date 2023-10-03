@@ -1,1 +1,1 @@
-<p>the solution for question C gives TLE. Didn't expect it to be like that in editorial.</p> <<===>> 
+((-1, 892720)) <<===>> ["the solution for question C gives TLE. Didn't expect it to be like that in editorial."] [<<<new_com>>>]

@@ -1,6 +1,6 @@
-<p>My approach for problem C, Binary search the waiting time before starting to move.  <submission link> </p> <<===>> 
-<p>can you explain your approach. Thank you</p> <<===>> 
-<div class="spoiler"><b class="spoiler-title">my idea</b><div class="spoiler-content" style="display: none;"><p>sorry I don't know how to make a new line... The idea is if I can check whether I can walk through all the grid without getting stuck with a certain starting waiting time.</p><p>I came out with a greedy approach in O(m).</p><p>First you go with snake and if it get stuck at the position x</p><p>case 1:</p>  <code> <p>then there is only one possible way to work around</p>  <code> <p>case 2:</p>  <code> <p>way to work around</p>  <code> <p>I renamed some function and deleted some useless code to make it a little bit more readable:  <submission link> </p></div></div> <<===>> 
-<p><a class="rated-user user-blue" href="/profile/redin2022" title="Expert redin2022">redin2022</a> Awesome approach bro !!</p> <p>I was looking for binary search sol and came across yours.</p> <p>my implementation  <submission link> </p> <<===>> 
-<p>Actually whenever there is involvement of some time concept in problem. Generally there will be a way to solve that problem with Binarysearch</p> <<===>> 
-<p>awesome !!!</p> <<===>> 
+((-1, 940186)) <<===>> ['My approach for problem C, Binary search the waiting time before starting to move.  (link to problem C) '] [<<<new_com>>>]
+((940186, 940216)) <<===>> ['can you explain your approach. Thank you'] [<<<new_com>>>]
+((940216, 940221)) <<===>> ["my ideasorry I don't know how to make a new line... The idea is if I can check whether I can walk through all the grid without getting stuck with a certain starting waiting time.I came out with a greedy approach in O(m).First you go with snake and if it get stuck at the position xcase 1:  (code) then there is only one possible way to work around  (code) case 2:  (code) way to work around  (code) I renamed some function and deleted some useless code to make it a little bit more readable:  (link to problem C) "] [<<<new_com>>>]
+((940221, 940382)) <<===>> ['redin2022 Awesome approach bro !! I was looking for binary search sol and came across yours. my implementation  (link to problem C) '] [<<<new_com>>>]
+((940221, 940732)) <<===>> ['Actually whenever there is involvement of some time concept in problem. Generally there will be a way to solve that problem with Binarysearch'] [<<<new_com>>>]
+((940221, 942083)) <<===>> ['awesome !!!'] [<<<new_com>>>]

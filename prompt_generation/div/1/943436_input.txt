@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Test cases of B were very helpful. Couldn't have solved without them.</p></div> <<===>> 
+((-1, 943436)) <<===>> ["Test cases of B were very helpful. Couldn't have solved without them."] [<<<new_com>>>]

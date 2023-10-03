@@ -1,2 +1,0 @@
-<p>Can anybody please tell me how this code is working for problem D :  <submission link> .</p> <p>Is this logic correct or are the test cases weak?</p> <<===>> 
-<p>I suppose the logic is correct. It uses a greedy approach as mentioned in the editorial. The fact that lengths can only be the power of 2 is used to reduce the time complexity of nested loops.</p> <<===>> 

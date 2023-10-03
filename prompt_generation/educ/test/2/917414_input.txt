@@ -1,2 +1,2 @@
-<p>why my code is failing on test 4 in problem C  <submission link> </p> <<===>> 
-<p><strong>Failing testcase</strong>: <a href="https://cfstress.com/status/8915">Ticket 8915</a></p> <<===>> 
+((-1, 917414)) <<===>> ['why my code is failing on test 4 in problem C  (link to problem C) '] [<<<new_com>>>]
+((917414, 917528)) <<===>> ['Failing testcase: Ticket 8915'] [<<<new_com>>>]

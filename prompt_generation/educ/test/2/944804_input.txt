@@ -1,2 +1,0 @@
-((-1, 944804)) => <div class="ttypography"><p>The code for problem E in the Editorial is incorrect. Countertest:</p>  <code> </div>
-((944804, 944818)) => <div class="ttypography"><p>Thanks for noticing! I posted correct solution.</p></div>

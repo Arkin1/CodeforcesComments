@@ -1,4 +1,4 @@
-<div class="ttypography"><p>One of the best C</p></div> <<===>> 
-<div class="ttypography"><p>For experts or higher I guess</p></div> <<===>> 
-<div class="ttypography"><p>I don't think Monoblock's company is having many sales with such a complicated captcha. </p></div> <<===>> 
-<div class="ttypography"><p>XD</p></div> <<===>> 
+((-1, 945736)) <<===>> ['One of the best C'] [<<<new_com>>>]
+((945736, 945756)) <<===>> ['For experts or higher I guess'] [<<<new_com>>>]
+((945736, 945776)) <<===>> ["I don't think Monoblock's company is having many sales with such a complicated captcha. "] [<<<new_com>>>]
+((945776, 946115)) <<===>> ['XD'] [<<<new_com>>>]

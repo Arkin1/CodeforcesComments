@@ -1,2 +1,2 @@
-<div class="ttypography"><p>The editorial doesn’t show up in the bottom right of the problem pages</p></div> <<===>> 
-<div class="ttypography"><p>Now it should</p></div> <<===>> 
+((-1, 942617)) <<===>> ['The editorial doesn’t show up in the bottom right of the problem pages'] [<<<new_com>>>]
+((942617, 942618)) <<===>> ['Now it should'] [<<<new_com>>>]

@@ -1,1 +1,0 @@
-<p>For problem C, you don't have to worry about half-intervals. Here is my (badly written) code for C with segments that can be of length 0.</p> <p> <submission link> </p> <<===>> 

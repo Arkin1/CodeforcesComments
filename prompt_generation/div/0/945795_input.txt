@@ -1,3 +1,3 @@
-<div class="ttypography"><p>The evolution of $$$Div2$$$ $$$E$$$</p><p><img alt=" " src="/predownloaded/14/6e/146ec529abb30cf5fd66fd7d48839dd33fec073e.jpeg" style="max-width: 100.0%;max-height: 100.0%;" /></p></div> <<===>> 
-<div class="ttypography"><p>May I take the picture away?</p></div> <<===>> 
-<div class="ttypography"><p>Sure.</p></div> <<===>> 
+((-1, 945795)) <<===>> ['The evolution of $$$Div2$$$ $$$E$$$'] [<<<new_com>>>]
+((945795, 945842)) <<===>> ['May I take the picture away?'] [<<<new_com>>>]
+((945842, 945847)) <<===>> ['Sure.'] [<<<new_com>>>]

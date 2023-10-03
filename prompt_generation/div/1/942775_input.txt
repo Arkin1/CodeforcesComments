@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Could anyone please explain for what mysterious reasons this solution for D using ordered_set is not passing even small test cases like (n &lt;= 1000)? ( <submission link> )</p></div> <<===>> 
+((-1, 942775)) <<===>> ['Could anyone please explain for what mysterious reasons this solution for D using ordered_set is not passing even small test cases like (n <= 1000)? ( (link to problem Irrelevant) )'] [<<<new_com>>>]

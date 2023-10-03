@@ -1,1 +1,1 @@
-<div class="ttypography"><p>I'M BLIND(</p></div> <<===>> 
+((-1, 944931)) <<===>> ["I'M BLIND("] [<<<new_com>>>]

@@ -1,10 +1,10 @@
-((-1, 940222)) <<===>> SubQuestion
-((940222, 940272)) <<===>> FixingExp
-((940272, 940368)) <<===>> FixingExp
-((940368, 940388)) <<===>> QuestionExp
-((940388, 940391)) <<===>> FixingExp
-((940391, 940410)) <<===>> Irrelevant
-((940391, 946861)) <<===>> Irrelevant
-((940272, 940381)) <<===>> SubQuestion
-((940381, 949750)) <<===>> Irrelevant
-((940381, 949751)) <<===>> FixingExp
+((-1, 940222)) <<===>> SubQuestion [<<<new_com>>>]
+((940222, 940272)) <<===>> FixingExp [<<<new_com>>>]
+((940272, 940368)) <<===>> FixingExp [<<<new_com>>>]
+((940368, 940388)) <<===>> QuestionExp [<<<new_com>>>]
+((940388, 940391)) <<===>> FixingExp [<<<new_com>>>]
+((940391, 940410)) <<===>> Irrelevant [<<<new_com>>>]
+((940391, 946861)) <<===>> Irrelevant [<<<new_com>>>]
+((940272, 940381)) <<===>> SubQuestion [<<<new_com>>>]
+((940381, 949750)) <<===>> Irrelevant [<<<new_com>>>]
+((940381, 949751)) <<===>> FixingExp [<<<new_com>>>]

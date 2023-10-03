@@ -1,5 +1,0 @@
-((-1, 942698)) => QuestionExp
-((942698, 942699)) => Irrelevant
-((942699, 942705)) => QuestionExp
-((942705, 942712)) => HintExp
-((942712, 942714)) => Irrelevant

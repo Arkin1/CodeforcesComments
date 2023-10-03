@@ -1,1 +1,1 @@
-<p>can someone please explain the problem <a href="https://codeforces.com/contest/1671/problem/B">https://codeforces.com/contest/1671/problem/B</a></p> <<===>> 
+((-1, 921333)) <<===>> ['can someone please explain the problem https://codeforces.com/contest/1671/problem/B'] [<<<new_com>>>]

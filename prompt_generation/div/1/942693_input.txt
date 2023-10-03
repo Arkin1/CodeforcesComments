@@ -1,1 +1,1 @@
-<div class="ttypography"><p>Problem C can be solved with binary search </p></div> <<===>> 
+((-1, 942693)) <<===>> ['Problem C can be solved with binary search '] [<<<new_com>>>]

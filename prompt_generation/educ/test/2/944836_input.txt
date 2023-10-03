@@ -1,4 +1,0 @@
-((-1, 944836)) => <div class="ttypography"><p>B — Interesting Sum Proposed solution O(nlog(n)) fails with time limit on test 15 when it's implemented in Java (not sure about other languages). </p></div>
-((944836, 944856)) => <div class="ttypography"><p>I suppose you can steal SecondThread's template and use his custom sort and input? It might be good enough.</p></div>
-((944836, 944919)) => <div class="ttypography"><p>Arrays.sort on primitives can degrade to O(n^2). Either make an array of the wrapper class, or use/ convert to Collections</p></div>
-((944919, 944932)) => <div class="ttypography"><p>Indeed, Thanks for pointing it out. I first time met such an issue.</p></div>

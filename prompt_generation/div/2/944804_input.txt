@@ -1,2 +1,2 @@
-<div class="ttypography"><p>The code for problem E in the Editorial is incorrect. Countertest:</p>  <code> </div> <<===>> 
-<div class="ttypography"><p>Thanks for noticing! I posted correct solution.</p></div> <<===>> 
+((-1, 944804)) <<===>> ['The code for problem E in the Editorial is incorrect. Countertest:  (code) '] [<<<new_com>>>]
+((944804, 944818)) <<===>> ['Thanks for noticing! I posted correct solution.'] [<<<new_com>>>]

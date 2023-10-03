@@ -1,2 +1,2 @@
-<div class="ttypography"><p>Why in authors code of <strong>C.Monoblock</strong>, they used (n — (i + 1) + 1) instead of (n-i)? As both will give same answer. Why to use (n — (i + 1) + 1). (In for loop)</p></div> <<===>> 
-<div class="ttypography"><p>for our understanding...</p></div> <<===>> 
+((-1, 946074)) <<===>> ['Why in authors code of C.Monoblock, they used (n — (i + 1) + 1) instead of (n-i)? As both will give same answer. Why to use (n — (i + 1) + 1). (In for loop)'] [<<<new_com>>>]
+((946074, 947214)) <<===>> ['for our understanding...'] [<<<new_com>>>]

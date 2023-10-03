@@ -1,1 +1,1 @@
-<p>F can be solved more easily by using Stirling Number and Descending Power.</p> <<===>> 
+((-1, 940314)) <<===>> ['F can be solved more easily by using Stirling Number and Descending Power.'] [<<<new_com>>>]

@@ -1,1 +1,1 @@
-<div class="ttypography"><p>why is this unrated now ?</p></div> <<===>> 
+((-1, 943481)) <<===>> ['why is this unrated now ?'] [<<<new_com>>>]

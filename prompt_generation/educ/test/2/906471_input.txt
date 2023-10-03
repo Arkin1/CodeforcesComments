@@ -1,2 +1,2 @@
-<p>It seems that problem F can be solves with dp, but without precalc. But how to do that?</p> <<===>> 
-<p>I was thinking that as well,and had a original idea.</p> <<===>> 
+((-1, 906471)) <<===>> ['It seems that problem F can be solves with dp, but without precalc. But how to do that?'] [<<<new_com>>>]
+((906471, 906507)) <<===>> ['I was thinking that as well,and had a original idea.'] [<<<new_com>>>]
