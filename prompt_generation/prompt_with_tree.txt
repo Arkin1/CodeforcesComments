@@ -47,4 +47,4 @@ You should label it like this
 (22355, 22356) <<===>> TestExp[<<<new_com>>>]
 
 Please encode the previous explanation of the labelling in a variable named %rule%. Whenever I use %rule% in a text, you should follow the exact rules I specified
-above. Please respond with the correct label and don't forget to keep print comment id and father id as above
+above. Please respond with the correct label and don't forget to keep printing comment id and father id as above, especially if there is just one comment in a tree.

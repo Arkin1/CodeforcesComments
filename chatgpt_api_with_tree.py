@@ -6,7 +6,7 @@ tokenizer = AutoTokenizer.from_pretrained("openai-gpt")
 
 PROMPT_FOLDER = 'prompt_generation'
 ROUND_TYPE = 'educ/test'
-ID = 0
+ID = 2
 with open(f'{PROMPT_FOLDER}/prompt_with_tree.txt', 'r') as fp:
     prompt = fp.read()
 
