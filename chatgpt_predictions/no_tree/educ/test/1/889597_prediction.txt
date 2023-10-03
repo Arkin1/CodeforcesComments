@@ -1,0 +1,4 @@
+((-1, 889597)) <<===>>Irrelevant[<<<new_com>>>]
+((889597, 922830)) <<===>>SubQuestion[<<<new_com>>>]
+((922830, 922863)) <<===>>Irrelevant[<<<new_com>>>]
+((922863, 922895)) <<===>>Irrelevant[<<<new_com>>>]
