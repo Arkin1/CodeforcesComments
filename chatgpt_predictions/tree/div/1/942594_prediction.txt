@@ -1,0 +1,4 @@
+(-1, 942594) <<===>> Irrelevant[<<<new_com>>>]
+(942594, 942824) <<===>> Irrelevant[<<<new_com>>>]
+(942824, 942853) <<===>> Irrelevant[<<<new_com>>>]
+(942824, 943407) <<===>> Irrelevant[<<<new_com>>>]
