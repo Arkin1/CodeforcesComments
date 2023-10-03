@@ -6,7 +6,7 @@ tokenizer = AutoTokenizer.from_pretrained("openai-gpt")
 
 PROMPT_FOLDER = 'prompt_generation'
 ROUND_TYPE = 'div'
-ID = 0
+ID = 1
 with open(f'{PROMPT_FOLDER}/prompt_without_tree.txt', 'r') as fp:
     prompt = fp.read()
 
