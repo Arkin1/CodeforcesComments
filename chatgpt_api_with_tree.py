@@ -41,7 +41,7 @@ for root_id, tree in list(round_trees.items()):
         # if(total_tokens_length > 3900):
         #         print("Probably needs truncation")
 
-        openai.api_key = "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"
+        openai.api_key = "YOUR KEY"
         response = openai.ChatCompletion.create(
         model = "gpt-3.5-turbo-16k",
         temperature = 0.2,
