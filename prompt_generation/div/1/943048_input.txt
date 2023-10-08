@@ -1,2 +1,2 @@
-((-1, 943048)) <<===>> ['Can someone help me to know why my solution fails for problem C?  (code) '] [<<<new_com>>>]
-((943048, 943112)) <<===>> ['Take a look at Ticket 16034 from CF Stress for a counter example.'] [<<<new_com>>>]
+((-1, 943048)) <<===>> Can someone help me to know why my solution fails for problem C?  (code)  [<<<new_com>>>]
+((943048, 943112)) <<===>> Take a look at Ticket 16034 from CF Stress for a counter example. [<<<new_com>>>]

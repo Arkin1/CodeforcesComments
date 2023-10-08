@@ -1,1 +1,1 @@
-((-1, 942735)) <<===>> ["Problem E1.Who have different idea?I didn't understand tutoriol."] [<<<new_com>>>]
+((-1, 942735)) <<===>> Problem E1.Who have different idea?I didn't understand tutoriol. [<<<new_com>>>]

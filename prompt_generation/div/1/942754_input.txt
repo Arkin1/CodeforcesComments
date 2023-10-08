@@ -1,1 +1,1 @@
-((-1, 942754)) <<===>> ["Did anybody solve this clue by the author? I'm still stuck on it.Edit: I saw the answer in editorial."] [<<<new_com>>>]
+((-1, 942754)) <<===>> Did anybody solve this clue by the author? I'm still stuck on it.Edit: I saw the answer in editorial. [<<<new_com>>>]

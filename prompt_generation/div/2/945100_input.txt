@@ -1,1 +1,1 @@
-((-1, 945100)) <<===>> ['Video Editorial of Problem D1'] [<<<new_com>>>]
+((-1, 945100)) <<===>> Video Editorial of Problem D1 [<<<new_com>>>]

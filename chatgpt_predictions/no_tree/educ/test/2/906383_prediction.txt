@@ -1,2 +1,2 @@
-((-1, 906383)) <<===>>QuestionExp[<<<new_com>>>]
+((-1, 906383)) <<===>>HintExp[<<<new_com>>>]
 ((906383, 917131)) <<===>>Irrelevant[<<<new_com>>>]

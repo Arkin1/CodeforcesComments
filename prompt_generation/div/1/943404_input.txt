@@ -1,2 +1,2 @@
-((-1, 943404)) <<===>> ['Can anyone tell me why I got the wrong answer in  (link to problem Irrelevant)  of problem d?'] [<<<new_com>>>]
-((943404, 943469)) <<===>> ['Take a look at Ticket 16040 from CF Stress for a counter example.'] [<<<new_com>>>]
+((-1, 943404)) <<===>> Can anyone tell me why I got the wrong answer in  (link to problem Irrelevant)  of problem d? [<<<new_com>>>]
+((943404, 943469)) <<===>> Take a look at Ticket 16040 from CF Stress for a counter example. [<<<new_com>>>]

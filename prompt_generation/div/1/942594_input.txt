@@ -1,4 +1,4 @@
-((-1, 942594)) <<===>> ['Nice :)'] [<<<new_com>>>]
-((942594, 942824)) <<===>> ["Why did you say that? What's the point of making such remarks? Look, this sentence of yours wasted one precious second of my life, and the reply wasted 30 seconds."] [<<<new_com>>>]
-((942824, 942853)) <<===>> [':)))'] [<<<new_com>>>]
-((942824, 943407)) <<===>> ["you are right.I'd rather have a look at the code which has already been accepted"] [<<<new_com>>>]
+((-1, 942594)) <<===>> Nice :) [<<<new_com>>>]
+((942594, 942824)) <<===>> Why did you say that? What's the point of making such remarks? Look, this sentence of yours wasted one precious second of my life, and the reply wasted 30 seconds. [<<<new_com>>>]
+((942824, 942853)) <<===>> :))) [<<<new_com>>>]
+((942824, 943407)) <<===>> you are right.I'd rather have a look at the code which has already been accepted [<<<new_com>>>]

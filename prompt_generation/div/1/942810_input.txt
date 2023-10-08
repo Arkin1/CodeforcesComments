@@ -1,1 +1,1 @@
-((-1, 942810)) <<===>> ['personally liked all the anime references.'] [<<<new_com>>>]
+((-1, 942810)) <<===>> personally liked all the anime references. [<<<new_com>>>]

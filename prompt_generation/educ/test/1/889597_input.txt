@@ -1,4 +1,4 @@
-((-1, 889597)) <<===>> ['If you are/were getting a WA/RE verdict on any of the problems from this contest, you can get a small counter example for your submission on cfstress.com Problems added: "A, B, C, D, E, F". If you are not able to find a counter example even after changing the parameters, reply to this thread, mentioning the contest_id, problem_index and submission_id. '] [<<<new_com>>>]
-((889597, 922830)) <<===>> ['contest id 1644 problem index C submission id 160707248 getting WA in test case 9 '] [<<<new_com>>>]
-((922830, 922863)) <<===>> ['Take a look at Ticket 12285 from CF Stress for a counter example.'] [<<<new_com>>>]
-((922863, 922895)) <<===>> ['thanks '] [<<<new_com>>>]
+((-1, 889597)) <<===>> If you are/were getting a WA/RE verdict on any of the problems from this contest, you can get a small counter example for your submission on cfstress.com Problems added: "A, B, C, D, E, F". If you are not able to find a counter example even after changing the parameters, reply to this thread, mentioning the contest_id, problem_index and submission_id.  [<<<new_com>>>]
+((889597, 922830)) <<===>> contest id 1644 problem index C submission id 160707248 getting WA in test case 9  [<<<new_com>>>]
+((922830, 922863)) <<===>> Take a look at Ticket 12285 from CF Stress for a counter example. [<<<new_com>>>]
+((922863, 922895)) <<===>> thanks  [<<<new_com>>>]

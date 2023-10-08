@@ -1,1 +1,1 @@
-((-1, 942631)) <<===>> ['This was challenging and editorial is awesome. Thanks for these competitions'] [<<<new_com>>>]
+((-1, 942631)) <<===>> This was challenging and editorial is awesome. Thanks for these competitions [<<<new_com>>>]

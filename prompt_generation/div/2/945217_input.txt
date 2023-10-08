@@ -1,1 +1,1 @@
-((-1, 945217)) <<===>> ['(all appeareances of this numbers are in thsi square) ——(In the tutorial of E)'] [<<<new_com>>>]
+((-1, 945217)) <<===>> (all appeareances of this numbers are in thsi square) ——(In the tutorial of E) [<<<new_com>>>]

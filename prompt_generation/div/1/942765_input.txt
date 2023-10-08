@@ -1,2 +1,2 @@
-((-1, 942765)) <<===>> ['B Bonus: try to prove the solution without the editorial!Me: Use the data!'] [<<<new_com>>>]
-((942765, 942799)) <<===>> ['666'] [<<<new_com>>>]
+((-1, 942765)) <<===>> B Bonus: try to prove the solution without the editorial!Me: Use the data! [<<<new_com>>>]
+((942765, 942799)) <<===>> 666 [<<<new_com>>>]

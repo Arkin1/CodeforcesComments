@@ -1,1 +1,1 @@
-((-1, 946798)) <<===>> ['B — Interesting SumAre we allowed to sort. The numbers will get scattered and will not be according to the given input. so the segment we take will be different according to the given input?'] [<<<new_com>>>]
+((-1, 946798)) <<===>> B — Interesting SumAre we allowed to sort. The numbers will get scattered and will not be according to the given input. so the segment we take will be different according to the given input? [<<<new_com>>>]

@@ -1,2 +1,2 @@
-((-1, 907352)) <<===>> ['Can someone explain why  (link to problem C)  is failing on test case 5? Cannot find the bug...'] [<<<new_com>>>]
-((907352, 907453)) <<===>> ['Failing testcase: Ticket 6103'] [<<<new_com>>>]
+((-1, 907352)) <<===>> Can someone explain why  (link to problem C)  is failing on test case 5? Cannot find the bug... [<<<new_com>>>]
+((907352, 907453)) <<===>> Failing testcase: Ticket 6103 [<<<new_com>>>]

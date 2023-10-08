@@ -1,1 +1,1 @@
-((-1, 946238)) <<===>> ['C was easy today'] [<<<new_com>>>]
+((-1, 946238)) <<===>> C was easy today [<<<new_com>>>]

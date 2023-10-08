@@ -1,1 +1,1 @@
-((-1, 946671)) <<===>> ['what is wrong in my code for problem C? please help someone!!!  (link to problem Irrelevant) '] [<<<new_com>>>]
+((-1, 946671)) <<===>> what is wrong in my code for problem C? please help someone!!!  (link to problem Irrelevant)  [<<<new_com>>>]

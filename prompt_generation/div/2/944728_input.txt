@@ -1,2 +1,2 @@
-((-1, 944728)) <<===>> ["In the solution of D2, an 'equal' is wrong spelled. (code) "] [<<<new_com>>>]
-((944728, 944733)) <<===>> ['We will fix it quickly. Thank you)'] [<<<new_com>>>]
+((-1, 944728)) <<===>> In the solution of D2, an 'equal' is wrong spelled. (code)  [<<<new_com>>>]
+((944728, 944733)) <<===>> We will fix it quickly. Thank you) [<<<new_com>>>]

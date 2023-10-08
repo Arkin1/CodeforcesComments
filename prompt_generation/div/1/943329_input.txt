@@ -1,1 +1,1 @@
-((-1, 943329)) <<===>> ['Can someone explain the binary search solution for problem D? I am not sure I understand'] [<<<new_com>>>]
+((-1, 943329)) <<===>> Can someone explain the binary search solution for problem D? I am not sure I understand [<<<new_com>>>]

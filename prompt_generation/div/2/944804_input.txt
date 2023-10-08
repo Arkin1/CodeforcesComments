@@ -1,2 +1,2 @@
-((-1, 944804)) <<===>> ['The code for problem E in the Editorial is incorrect. Countertest:  (code) '] [<<<new_com>>>]
-((944804, 944818)) <<===>> ['Thanks for noticing! I posted correct solution.'] [<<<new_com>>>]
+((-1, 944804)) <<===>> The code for problem E in the Editorial is incorrect. Countertest:  (code)  [<<<new_com>>>]
+((944804, 944818)) <<===>> Thanks for noticing! I posted correct solution. [<<<new_com>>>]

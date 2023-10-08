@@ -1,3 +1,0 @@
-(-1, 889303) <<===>> Irrelevant[<<<new_com>>>]
-(889303, 889318) <<===>> SubQuestion[<<<new_com>>>]
-(889303, 901155) <<===>> HintExp[<<<new_com>>>]

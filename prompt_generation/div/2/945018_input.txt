@@ -1,1 +1,1 @@
-((-1, 945018)) <<===>> ['d1 and d2 are two good problem!'] [<<<new_com>>>]
+((-1, 945018)) <<===>> d1 and d2 are two good problem! [<<<new_com>>>]

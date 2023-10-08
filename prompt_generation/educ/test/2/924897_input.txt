@@ -1,1 +1,1 @@
-((-1, 924897)) <<===>> [' (code)   (code)   (code)   (link to problem D) '] [<<<new_com>>>]
+((-1, 924897)) <<===>>  (code)   (code)   (code)   (link to problem D)  [<<<new_com>>>]

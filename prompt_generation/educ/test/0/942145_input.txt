@@ -1,3 +1,3 @@
-((-1, 942145)) <<===>> ['Does anyone have a testcase that breaks my submission for C?  (link to problem Irrelevant) '] [<<<new_com>>>]
-((942145, 942162)) <<===>> ['Take a look at Ticket 16020 from CF Stress for a counter example.'] [<<<new_com>>>]
-((942162, 942384)) <<===>> ['thanks'] [<<<new_com>>>]
+((-1, 942145)) <<===>> Does anyone have a testcase that breaks my submission for C?  (link to problem Irrelevant)  [<<<new_com>>>]
+((942145, 942162)) <<===>> Take a look at Ticket 16020 from CF Stress for a counter example. [<<<new_com>>>]
+((942162, 942384)) <<===>> thanks [<<<new_com>>>]

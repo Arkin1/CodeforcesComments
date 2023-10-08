@@ -1,4 +1,4 @@
-((-1, 944874)) <<===>> ['Could anyone explain what mistake I made for A?  (link to problem A) '] [<<<new_com>>>]
-((944874, 944876)) <<===>> ['Float division is inaccurate. Minimize the use of that.'] [<<<new_com>>>]
-((944874, 944878)) <<===>> [" (link to problem Irrelevant) I slightly modified your code and it ac'ed."] [<<<new_com>>>]
-((944878, 944892)) <<===>> ['thanks for the help :)'] [<<<new_com>>>]
+((-1, 944874)) <<===>> Could anyone explain what mistake I made for A?  (link to problem A)  [<<<new_com>>>]
+((944874, 944876)) <<===>> Float division is inaccurate. Minimize the use of that. [<<<new_com>>>]
+((944874, 944878)) <<===>>  (link to problem Irrelevant) I slightly modified your code and it ac'ed. [<<<new_com>>>]
+((944878, 944892)) <<===>> thanks for the help :) [<<<new_com>>>]

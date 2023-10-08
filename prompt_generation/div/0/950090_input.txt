@@ -1,2 +1,2 @@
-((-1, 950090)) <<===>> ["In author solution for problem E why is it: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) <= x.back())and not: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) >= x.back())won't the authors solution remove lines from the Convex Hull that actualy need to be in it."] [<<<new_com>>>]
-((950090, 950091)) <<===>> ['Figured it out.. brain fartWe are searching for Min not Max .'] [<<<new_com>>>]
+((-1, 950090)) <<===>> In author solution for problem E why is it: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) <= x.back())and not: while (ll.size() >= 2 && l.intersect(ll[ll.size() — 2]) >= x.back())won't the authors solution remove lines from the Convex Hull that actualy need to be in it. [<<<new_com>>>]
+((950090, 950091)) <<===>> Figured it out.. brain fartWe are searching for Min not Max . [<<<new_com>>>]

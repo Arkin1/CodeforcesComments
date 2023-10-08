@@ -1,1 +1,1 @@
-((-1, 942703)) <<===>> ['as a #008000 rated, I enjoyed solving C '] [<<<new_com>>>]
+((-1, 942703)) <<===>> as a #008000 rated, I enjoyed solving C  [<<<new_com>>>]

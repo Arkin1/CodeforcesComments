@@ -1,4 +1,4 @@
-((-1, 906367)) <<===>> ['How to come up with alternative solution of F? '] [<<<new_com>>>]
-((906367, 906584)) <<===>> [' (link to problem Irrelevant)  Edit: Sorry i posted this solution inadvertently. I was checking the editorial for another contest also [at the same time]. this perplexed me [i think]'] [<<<new_com>>>]
-((906584, 906649)) <<===>> ["It's not that contest"] [<<<new_com>>>]
-((906649, 906854)) <<===>> ['Yup!'] [<<<new_com>>>]
+((-1, 906367)) <<===>> How to come up with alternative solution of F?  [<<<new_com>>>]
+((906367, 906584)) <<===>>  (link to problem Irrelevant)  Edit: Sorry i posted this solution inadvertently. I was checking the editorial for another contest also [at the same time]. this perplexed me [i think] [<<<new_com>>>]
+((906584, 906649)) <<===>> It's not that contest [<<<new_com>>>]
+((906649, 906854)) <<===>> Yup! [<<<new_com>>>]

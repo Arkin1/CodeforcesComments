@@ -1,1 +1,1 @@
-((-1, 946827)) <<===>> ["How can I solve problem C by Kadan's Algorithm? T.C : O(N)"] [<<<new_com>>>]
+((-1, 946827)) <<===>> How can I solve problem C by Kadan's Algorithm? T.C : O(N) [<<<new_com>>>]

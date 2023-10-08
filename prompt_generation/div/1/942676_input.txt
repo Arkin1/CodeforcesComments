@@ -1,2 +1,2 @@
-((-1, 942676)) <<===>> ['For subproof in problem D: When Imin is < u, can we take u to Imin and then Imin to v path instead of going till node 1? cc: Vladithur'] [<<<new_com>>>]
-((942676, 942677)) <<===>> ['Yes, going to node 1 just ensures that we always cross the min value.'] [<<<new_com>>>]
+((-1, 942676)) <<===>> For subproof in problem D: When Imin is < u, can we take u to Imin and then Imin to v path instead of going till node 1? cc: Vladithur [<<<new_com>>>]
+((942676, 942677)) <<===>> Yes, going to node 1 just ensures that we always cross the min value. [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 942728)) <<===>> ['My AC code is just 10 lines using PBDS  (link to problem Irrelevant) '] [<<<new_com>>>]
+((-1, 942728)) <<===>> My AC code is just 10 lines using PBDS  (link to problem Irrelevant)  [<<<new_com>>>]

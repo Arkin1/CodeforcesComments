@@ -1,4 +1,4 @@
-((-1, 942737)) <<===>> ['Difficulties like ->Easy -> Easy -> Easy -> Hard -> Hard -> Hard -> Hard'] [<<<new_com>>>]
-((942737, 942739)) <<===>> ['E1 and E2 not hard'] [<<<new_com>>>]
-((942739, 942750)) <<===>> ['you didnt solve them tho?'] [<<<new_com>>>]
-((942750, 942798)) <<===>> ['But E1 and E2 not hard '] [<<<new_com>>>]
+((-1, 942737)) <<===>> Difficulties like ->Easy -> Easy -> Easy -> Hard -> Hard -> Hard -> Hard [<<<new_com>>>]
+((942737, 942739)) <<===>> E1 and E2 not hard [<<<new_com>>>]
+((942739, 942750)) <<===>> you didnt solve them tho? [<<<new_com>>>]
+((942750, 942798)) <<===>> But E1 and E2 not hard  [<<<new_com>>>]

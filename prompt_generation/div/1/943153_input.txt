@@ -1,2 +1,2 @@
-((-1, 943153)) <<===>> ['I am very confused about the use of i+= i & (-i) loop from many of the fastest solutions of problem E2. For example,  (link to problem Irrelevant) .It seems to me that there are some hidden patterns that I am not aware of. Could anyone help me?'] [<<<new_com>>>]
-((943153, 943183)) <<===>> ["It's just one possible implementation of a fenwick tree."] [<<<new_com>>>]
+((-1, 943153)) <<===>> I am very confused about the use of i+= i & (-i) loop from many of the fastest solutions of problem E2. For example,  (link to problem Irrelevant) .It seems to me that there are some hidden patterns that I am not aware of. Could anyone help me? [<<<new_com>>>]
+((943153, 943183)) <<===>> It's just one possible implementation of a fenwick tree. [<<<new_com>>>]

@@ -1,4 +1,4 @@
-((-1, 942666)) <<===>> ['Can someone please tell me why i get WA with  (link to problem Irrelevant)  for problem D (greedy solution)?'] [<<<new_com>>>]
-((942666, 942681)) <<===>> ['Take a look at Ticket 16031 from CF Stress for a counter example.'] [<<<new_com>>>]
-((942681, 950113)) <<===>> ['can you check for C ; https://codeforces.com/problemset/submission/1712/170962914'] [<<<new_com>>>]
-((942666, 942881)) <<===>> ['mircea_007 I did the same using priority queue but end up getting WA.'] [<<<new_com>>>]
+((-1, 942666)) <<===>> Can someone please tell me why i get WA with  (link to problem Irrelevant)  for problem D (greedy solution)? [<<<new_com>>>]
+((942666, 942681)) <<===>> Take a look at Ticket 16031 from CF Stress for a counter example. [<<<new_com>>>]
+((942681, 950113)) <<===>> can you check for C ; https://codeforces.com/problemset/submission/1712/170962914 [<<<new_com>>>]
+((942666, 942881)) <<===>> mircea_007 I did the same using priority queue but end up getting WA. [<<<new_com>>>]

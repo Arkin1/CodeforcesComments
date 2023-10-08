@@ -1,2 +1,2 @@
-((-1, 944929)) <<===>> ['Would someone mind explaining to me why if x=bc/ad then bc must be divisible by ad in problem A'] [<<<new_com>>>]
-((944929, 944941)) <<===>> ['Because if bc/ad=x and x is an integer, then bc is divisible by ad by definition.'] [<<<new_com>>>]
+((-1, 944929)) <<===>> Would someone mind explaining to me why if x=bc/ad then bc must be divisible by ad in problem A [<<<new_com>>>]
+((944929, 944941)) <<===>> Because if bc/ad=x and x is an integer, then bc is divisible by ad by definition. [<<<new_com>>>]

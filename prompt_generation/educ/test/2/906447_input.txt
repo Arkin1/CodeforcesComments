@@ -1,1 +1,1 @@
-((-1, 906447)) <<===>> ['Can someone send code for precalculation in 1671F - Permutation Counting ?'] [<<<new_com>>>]
+((-1, 906447)) <<===>> Can someone send code for precalculation in 1671F - Permutation Counting ? [<<<new_com>>>]

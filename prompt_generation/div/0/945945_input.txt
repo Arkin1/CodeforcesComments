@@ -1,1 +1,1 @@
-((-1, 945945)) <<===>> ['Thanks for tips, try to finish it up myself'] [<<<new_com>>>]
+((-1, 945945)) <<===>> Thanks for tips, try to finish it up myself [<<<new_com>>>]

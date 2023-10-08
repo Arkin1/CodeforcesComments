@@ -1,2 +1,2 @@
-((-1, 945369)) <<===>> ['For D1, please let me know why my solution  (link to problem Irrelevant)  WA on test 3 while for j′<i−512, definitely aj′⊕j>aj⊕j′.'] [<<<new_com>>>]
-((945369, 945370)) <<===>> ['my mx is used to caculate the maximum dp[j] (j from 0 to i — 512)'] [<<<new_com>>>]
+((-1, 945369)) <<===>> For D1, please let me know why my solution  (link to problem Irrelevant)  WA on test 3 while for j′<i−512, definitely aj′⊕j>aj⊕j′. [<<<new_com>>>]
+((945369, 945370)) <<===>> my mx is used to caculate the maximum dp[j] (j from 0 to i — 512) [<<<new_com>>>]

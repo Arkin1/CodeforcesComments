@@ -1,4 +1,4 @@
-((-1, 942730)) <<===>> ["Could someone point out my mistake in problem D? I don't understand what the tute is saying very well.  (link to problem Irrelevant) "] [<<<new_com>>>]
-((942730, 942732)) <<===>> ["Greedily changing the $$$k$$$ smallest values isn't always correct"] [<<<new_com>>>]
-((942732, 942746)) <<===>> ["Thanks, I hadn't thought of that."] [<<<new_com>>>]
-((942732, 948377)) <<===>> ['I did this at first as well'] [<<<new_com>>>]
+((-1, 942730)) <<===>> Could someone point out my mistake in problem D? I don't understand what the tute is saying very well.  (link to problem Irrelevant)  [<<<new_com>>>]
+((942730, 942732)) <<===>> Greedily changing the $$$k$$$ smallest values isn't always correct [<<<new_com>>>]
+((942732, 942746)) <<===>> Thanks, I hadn't thought of that. [<<<new_com>>>]
+((942732, 948377)) <<===>> I did this at first as well [<<<new_com>>>]

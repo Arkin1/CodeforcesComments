@@ -1,1 +1,1 @@
-((-1, 945478)) <<===>> ["Can anyone please explain the editorial code for D2? I don't understand this implementation of trie."] [<<<new_com>>>]
+((-1, 945478)) <<===>> Can anyone please explain the editorial code for D2? I don't understand this implementation of trie. [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 944991)) <<===>> ['The pretest for A is too weak, I had just wrote a weird code and got a FST status :('] [<<<new_com>>>]
+((-1, 944991)) <<===>> The pretest for A is too weak, I had just wrote a weird code and got a FST status :( [<<<new_com>>>]

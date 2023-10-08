@@ -1,1 +1,1 @@
-((-1, 940324)) <<===>> ['How to solve problem C if you can visit the cell more than once??'] [<<<new_com>>>]
+((-1, 940324)) <<===>> How to solve problem C if you can visit the cell more than once?? [<<<new_com>>>]

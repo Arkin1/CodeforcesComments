@@ -1,2 +1,2 @@
-((-1, 943104)) <<===>> ['Can somebody help me out with Problem D :  (link to problem Irrelevant) My approach is ans = max( min(2 * mn , min(a[i],a[i+1]))) , where mn is the minimum value of a. '] [<<<new_com>>>]
-((943104, 943113)) <<===>> ['Take a look at Ticket 16035 from CF Stress for a counter example.'] [<<<new_com>>>]
+((-1, 943104)) <<===>> Can somebody help me out with Problem D :  (link to problem Irrelevant) My approach is ans = max( min(2 * mn , min(a[i],a[i+1]))) , where mn is the minimum value of a.  [<<<new_com>>>]
+((943104, 943113)) <<===>> Take a look at Ticket 16035 from CF Stress for a counter example. [<<<new_com>>>]

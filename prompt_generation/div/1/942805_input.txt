@@ -1,1 +1,1 @@
-((-1, 942805)) <<===>> ['C feels amazing, I can only think of BFS to solve it'] [<<<new_com>>>]
+((-1, 942805)) <<===>> C feels amazing, I can only think of BFS to solve it [<<<new_com>>>]

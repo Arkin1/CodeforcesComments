@@ -1,3 +1,3 @@
-((-1, 889303)) <<===>> ['Approach of D problem was great'] [<<<new_com>>>]
-((889303, 889318)) <<===>> ["yup, somewhat similar to this question's approach( two contests ago) https://codeforces.com/problemset/problem/1638/D"] [<<<new_com>>>]
-((889303, 901155)) <<===>> ['It seems that many problems that are related to doing some specific operation could be done by inverting the whole process'] [<<<new_com>>>]
+((-1, 889303)) <<===>> Approach of D problem was great [<<<new_com>>>]
+((889303, 889318)) <<===>> yup, somewhat similar to this question's approach( two contests ago) https://codeforces.com/problemset/problem/1638/D [<<<new_com>>>]
+((889303, 901155)) <<===>> It seems that many problems that are related to doing some specific operation could be done by inverting the whole process [<<<new_com>>>]

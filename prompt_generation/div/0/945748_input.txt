@@ -1,3 +1,3 @@
-((-1, 945748)) <<===>> ["I think convex hull trick is too complicated for div2 E, please don't add such tasks"] [<<<new_com>>>]
-((945748, 945757)) <<===>> ['You can also do it with D&C dp, I think this was a nice question. You learn these tricks but there aren\'t many "easy" questions on them because they are generally reserved for harder problems with more observation. This was a simple application and personally I got a nice Aha moment when realising I could use D&C, imo this way you get a chance to build an intuition for them'] [<<<new_com>>>]
-((945748, 945836)) <<===>> ['my hands finally knows about CHT by this task'] [<<<new_com>>>]
+((-1, 945748)) <<===>> I think convex hull trick is too complicated for div2 E, please don't add such tasks [<<<new_com>>>]
+((945748, 945757)) <<===>> You can also do it with D&C dp, I think this was a nice question. You learn these tricks but there aren't many "easy" questions on them because they are generally reserved for harder problems with more observation. This was a simple application and personally I got a nice Aha moment when realising I could use D&C, imo this way you get a chance to build an intuition for them [<<<new_com>>>]
+((945748, 945836)) <<===>> my hands finally knows about CHT by this task [<<<new_com>>>]

@@ -1,4 +1,4 @@
-((-1, 942629)) <<===>> ['My solution took me 20 lines and 6 minutes '] [<<<new_com>>>]
-((942629, 942637)) <<===>> ["It's great anyways, all of us are doing CP for moments like this, so I am really happy that you experienced it!"] [<<<new_com>>>]
-((942629, 942644)) <<===>> ['can you give your code for problem D?'] [<<<new_com>>>]
-((942644, 942659)) <<===>> ['here is my  (link to problem Irrelevant) '] [<<<new_com>>>]
+((-1, 942629)) <<===>> My solution took me 20 lines and 6 minutes  [<<<new_com>>>]
+((942629, 942637)) <<===>> It's great anyways, all of us are doing CP for moments like this, so I am really happy that you experienced it! [<<<new_com>>>]
+((942629, 942644)) <<===>> can you give your code for problem D? [<<<new_com>>>]
+((942644, 942659)) <<===>> here is my  (link to problem Irrelevant)  [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 942808)) <<===>> ["I think problem D is much harder than problem C.I solved C in ten minutes but didn't solve D in the contest."] [<<<new_com>>>]
+((-1, 942808)) <<===>> I think problem D is much harder than problem C.I solved C in ten minutes but didn't solve D in the contest. [<<<new_com>>>]

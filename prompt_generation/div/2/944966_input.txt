@@ -1,1 +1,1 @@
-((-1, 944966)) <<===>> ['Codeforces Round #815 (Div. 2) video Editorial for Chinese ：Bilibili'] [<<<new_com>>>]
+((-1, 944966)) <<===>> Codeforces Round #815 (Div. 2) video Editorial for Chinese ：Bilibili [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 942640)) <<===>> ['Can you use the rearrangement inequality somehow to get a formal proof for the solution to problem B?'] [<<<new_com>>>]
+((-1, 942640)) <<===>> Can you use the rearrangement inequality somehow to get a formal proof for the solution to problem B? [<<<new_com>>>]

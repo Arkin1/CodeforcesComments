@@ -1,2 +1,2 @@
-((-1, 943078)) <<===>> ['What is the solution for F Bonus?'] [<<<new_com>>>]
-((943078, 943125)) <<===>> ['Did you solve the original F problem first?'] [<<<new_com>>>]
+((-1, 943078)) <<===>> What is the solution for F Bonus? [<<<new_com>>>]
+((943078, 943125)) <<===>> Did you solve the original F problem first? [<<<new_com>>>]

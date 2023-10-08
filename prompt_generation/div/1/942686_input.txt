@@ -1,1 +1,1 @@
-((-1, 942686)) <<===>> ['Great contest!'] [<<<new_com>>>]
+((-1, 942686)) <<===>> Great contest! [<<<new_com>>>]

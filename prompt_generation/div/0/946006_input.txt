@@ -1,1 +1,1 @@
-((-1, 946006)) <<===>> ['The time complexity between  (link to problem Irrelevant)  is the same. The only difference is I scanned in increasing order instead of decreasing order. I wonder whether it is a trick to cut down time.'] [<<<new_com>>>]
+((-1, 946006)) <<===>> The time complexity between  (link to problem Irrelevant)  is the same. The only difference is I scanned in increasing order instead of decreasing order. I wonder whether it is a trick to cut down time. [<<<new_com>>>]

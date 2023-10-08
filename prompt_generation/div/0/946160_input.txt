@@ -1,1 +1,1 @@
-((-1, 946160)) <<===>> ["What's that in C++ code for E?   (code) "] [<<<new_com>>>]
+((-1, 946160)) <<===>> What's that in C++ code for E?   (code)  [<<<new_com>>>]

@@ -1,2 +1,2 @@
-((-1, 889616)) <<===>> ['C can be done with 2D DP. My submission is linked below  (link to problem C)  Note that I only used the custom "getbigger" function instead of the max function because the max function was being annoying for me.'] [<<<new_com>>>]
-((889616, 927003)) <<===>> ['Could you explain the idea of your code?'] [<<<new_com>>>]
+((-1, 889616)) <<===>> C can be done with 2D DP. My submission is linked below  (link to problem C)  Note that I only used the custom "getbigger" function instead of the max function because the max function was being annoying for me. [<<<new_com>>>]
+((889616, 927003)) <<===>> Could you explain the idea of your code? [<<<new_com>>>]

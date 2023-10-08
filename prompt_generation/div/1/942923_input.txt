@@ -1,1 +1,1 @@
-((-1, 942923)) <<===>> ['Comeback after almost a year ... I did pretty bad'] [<<<new_com>>>]
+((-1, 942923)) <<===>> Comeback after almost a year ... I did pretty bad [<<<new_com>>>]

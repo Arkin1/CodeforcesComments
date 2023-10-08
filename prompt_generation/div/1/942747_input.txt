@@ -1,1 +1,1 @@
-((-1, 942747)) <<===>> ['Finally became CM! Like B & D very much. '] [<<<new_com>>>]
+((-1, 942747)) <<===>> Finally became CM! Like B & D very much.  [<<<new_com>>>]

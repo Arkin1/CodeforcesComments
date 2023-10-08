@@ -1,1 +1,1 @@
-((-1, 944858)) <<===>> ['Cool... problem set was good.'] [<<<new_com>>>]
+((-1, 944858)) <<===>> Cool... problem set was good. [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 943121)) <<===>> ['I found C to be bit on a tougher side, compared to the no of solves during the contest :/'] [<<<new_com>>>]
+((-1, 943121)) <<===>> I found C to be bit on a tougher side, compared to the no of solves during the contest :/ [<<<new_com>>>]

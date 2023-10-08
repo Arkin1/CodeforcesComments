@@ -1,2 +1,2 @@
-((-1, 942668)) <<===>> ["Is anyone getting wrong answer on 21st test of main test 2 for problem D? (the test case isn't visible)"] [<<<new_com>>>]
-((942668, 942684)) <<===>> ['Take a look at Ticket 16032 from CF Stress for a counter example.'] [<<<new_com>>>]
+((-1, 942668)) <<===>> Is anyone getting wrong answer on 21st test of main test 2 for problem D? (the test case isn't visible) [<<<new_com>>>]
+((942668, 942684)) <<===>> Take a look at Ticket 16032 from CF Stress for a counter example. [<<<new_com>>>]

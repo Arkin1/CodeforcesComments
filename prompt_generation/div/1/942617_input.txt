@@ -1,2 +1,2 @@
-((-1, 942617)) <<===>> ['The editorial doesn’t show up in the bottom right of the problem pages'] [<<<new_com>>>]
-((942617, 942618)) <<===>> ['Now it should'] [<<<new_com>>>]
+((-1, 942617)) <<===>> The editorial doesn’t show up in the bottom right of the problem pages [<<<new_com>>>]
+((942617, 942618)) <<===>> Now it should [<<<new_com>>>]

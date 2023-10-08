@@ -1,3 +1,3 @@
-((-1, 942992)) <<===>> ['Can someone tell me what is wrong with this submission? The logic seems to be right  (link to problem Irrelevant) '] [<<<new_com>>>]
-((942992, 943028)) <<===>> ['Take a look at Ticket 16033 from CF Stress for a counter example.'] [<<<new_com>>>]
-((943028, 943620)) <<===>> ['Got it, Thanks!'] [<<<new_com>>>]
+((-1, 942992)) <<===>> Can someone tell me what is wrong with this submission? The logic seems to be right  (link to problem Irrelevant)  [<<<new_com>>>]
+((942992, 943028)) <<===>> Take a look at Ticket 16033 from CF Stress for a counter example. [<<<new_com>>>]
+((943028, 943620)) <<===>> Got it, Thanks! [<<<new_com>>>]

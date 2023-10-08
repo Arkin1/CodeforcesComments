@@ -1,1 +1,1 @@
-((-1, 942986)) <<===>> ['In editorial of problem D, what is the "another case to work"?'] [<<<new_com>>>]
+((-1, 942986)) <<===>> In editorial of problem D, what is the "another case to work"? [<<<new_com>>>]

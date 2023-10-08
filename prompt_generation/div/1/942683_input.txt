@@ -1,2 +1,2 @@
-((-1, 942683)) <<===>> ['I made video Solutions to the first 4 problems in case people are interested.'] [<<<new_com>>>]
-((942683, 942704)) <<===>> ['would see D'] [<<<new_com>>>]
+((-1, 942683)) <<===>> I made video Solutions to the first 4 problems in case people are interested. [<<<new_com>>>]
+((942683, 942704)) <<===>> would see D [<<<new_com>>>]

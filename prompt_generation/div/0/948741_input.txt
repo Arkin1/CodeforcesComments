@@ -1,1 +1,1 @@
-((-1, 948741)) <<===>> ['can C be solved using a segment tree? this was my intial thought but its not clear what data should each segment hold '] [<<<new_com>>>]
+((-1, 948741)) <<===>> can C be solved using a segment tree? this was my intial thought but its not clear what data should each segment hold  [<<<new_com>>>]

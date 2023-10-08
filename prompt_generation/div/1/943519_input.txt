@@ -1,1 +1,1 @@
-((-1, 943519)) <<===>> ["We can probably prove problem B by induction? In addition, I don't understand this sentence in problem B: So we need to minimize the sum of $$$max(x1…xk)−min(x1…xk)$$$ over all cycles. Could anyone please explain it?  Sory for my poor English."] [<<<new_com>>>]
+((-1, 943519)) <<===>> We can probably prove problem B by induction? In addition, I don't understand this sentence in problem B: So we need to minimize the sum of $$$max(x1…xk)−min(x1…xk)$$$ over all cycles. Could anyone please explain it?  Sory for my poor English. [<<<new_com>>>]

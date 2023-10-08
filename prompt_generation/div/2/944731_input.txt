@@ -1,1 +1,1 @@
-((-1, 944731)) <<===>> ['C was a nice problem'] [<<<new_com>>>]
+((-1, 944731)) <<===>> C was a nice problem [<<<new_com>>>]

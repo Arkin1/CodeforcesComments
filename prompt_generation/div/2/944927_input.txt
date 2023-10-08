@@ -1,1 +1,1 @@
-((-1, 944927)) <<===>> ['Can anyone explain the editorial of problem D2?'] [<<<new_com>>>]
+((-1, 944927)) <<===>> Can anyone explain the editorial of problem D2? [<<<new_com>>>]

@@ -1,1 +1,1 @@
-((-1, 945063)) <<===>> ['plz tell me how d1, thanks!'] [<<<new_com>>>]
+((-1, 945063)) <<===>> plz tell me how d1, thanks! [<<<new_com>>>]

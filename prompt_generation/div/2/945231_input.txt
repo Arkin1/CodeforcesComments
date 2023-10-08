@@ -1,2 +1,2 @@
-((-1, 945231)) <<===>> ['Couldnt problem B be done with complexity O(n) ? I believe my  (link to problem Irrelevant)  does it in O(n).'] [<<<new_com>>>]
-((945231, 945242)) <<===>> ['Yes, you can find the minimum and maximum in $$$O(n)$$$. But doing it twice is unnecessarily painful compared to sorting.'] [<<<new_com>>>]
+((-1, 945231)) <<===>> Couldnt problem B be done with complexity O(n) ? I believe my  (link to problem Irrelevant)  does it in O(n). [<<<new_com>>>]
+((945231, 945242)) <<===>> Yes, you can find the minimum and maximum in $$$O(n)$$$. But doing it twice is unnecessarily painful compared to sorting. [<<<new_com>>>]
