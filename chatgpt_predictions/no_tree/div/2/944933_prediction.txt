@@ -1,0 +1,6 @@
+((-1, 944933)) <<===>>SubQuestion[<<<new_com>>>]
+((944933, 944938)) <<===>>SolutionExp[<<<new_com>>>]
+((944938, 944940)) <<===>>QuestionExp[<<<new_com>>>]
+((944940, 944947)) <<===>>Irrelevant[<<<new_com>>>]
+((944933, 944945)) <<===>>HintExp[<<<new_com>>>]
+((944933, 944959)) <<===>>Irrelevant[<<<new_com>>>]

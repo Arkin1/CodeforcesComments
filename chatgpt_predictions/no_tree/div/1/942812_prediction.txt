@@ -1,0 +1,2 @@
+((-1, 942812)) <<===>>SolutionExp[<<<new_com>>>]
+((942812, 942871)) <<===>>SolutionExp[<<<new_com>>>]
