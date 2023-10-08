@@ -1,0 +1,4 @@
+(-1, 944836) <<===>> TimeComExp[<<<new_com>>>]
+(944836, 944856) <<===>> FixingExp[<<<new_com>>>]
+(944836, 944919) <<===>> FixingExp[<<<new_com>>>]
+(944919, 944932) <<===>> Irrelevant[<<<new_com>>>]

@@ -1,0 +1,5 @@
+(-1, 942698) <<===>> QuestionExp[<<<new_com>>>]
+(942698, 942699) <<===>> SolutionExp[<<<new_com>>>]
+(942699, 942705) <<===>> SubQuestion[<<<new_com>>>]
+(942705, 942712) <<===>> SolutionExp[<<<new_com>>>]
+(942712, 942714) <<===>> Irrelevant[<<<new_com>>>]

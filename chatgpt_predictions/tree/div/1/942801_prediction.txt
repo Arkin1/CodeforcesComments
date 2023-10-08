@@ -1,0 +1,2 @@
+(-1, 942801) <<===>> SolutionExp[<<<new_com>>>]
+(942801, 942888) <<===>> Irrelevant[<<<new_com>>>]
