@@ -1,0 +1,6 @@
+(-1, 906547) <<===>> SubQuestion[<<<new_com>>>]
+(906547, 906552) <<===>> FixingExp[<<<new_com>>>]
+(906552, 906555) <<===>> Irrelevant[<<<new_com>>>]
+(906552, 906558) <<===>> Irrelevant[<<<new_com>>>]
+(906558, 906566) <<===>> FixingExp[<<<new_com>>>]
+(906566, 906569) <<===>> Irrelevant[<<<new_com>>>]

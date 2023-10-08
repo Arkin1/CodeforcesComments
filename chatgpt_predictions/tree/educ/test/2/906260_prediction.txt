@@ -1,0 +1,5 @@
+(-1, 906260) <<===>> Irrelevant[<<<new_com>>>]
+(906260, 906461) <<===>> HintExp[<<<new_com>>>]
+(906461, 906506) <<===>> SubQuestion[<<<new_com>>>]
+(906506, 906536) <<===>> AlgoExp[<<<new_com>>>]
+(906536, 906572) <<===>> Irrelevant[<<<new_com>>>]

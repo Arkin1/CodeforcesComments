@@ -1,0 +1,5 @@
+(-1, 889499) <<===>> QuestionExp[<<<new_com>>>]
+(889499, 889537) <<===>> TimeComExp[<<<new_com>>>]
+(889537, 889554) <<===>> Irrelevant[<<<new_com>>>]
+(889537, 896394) <<===>> Irrelevant[<<<new_com>>>]
+(889537, 897491) <<===>> SubQuestion[<<<new_com>>>]

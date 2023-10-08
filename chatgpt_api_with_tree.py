@@ -1,11 +1,12 @@
 import openai
 import os
+import time
 from transformers import AutoTokenizer, OpenAIGPTDoubleHeadsModel
 
 tokenizer = AutoTokenizer.from_pretrained("openai-gpt")
 
 PROMPT_FOLDER = 'prompt_generation'
-ROUND_TYPE = 'div'
+ROUND_TYPE = 'educ/test'
 ID = 2
 with open(f'{PROMPT_FOLDER}/prompt_with_tree.txt', 'r') as fp:
     prompt = fp.read()
@@ -41,16 +42,31 @@ for root_id, tree in list(round_trees.items()):
         # if(total_tokens_length > 3900):
         #         print("Probably needs truncation")
 
-        openai.api_key = "YOUR KEY"
-        response = openai.ChatCompletion.create(
-        model = "gpt-3.5-turbo-16k",
-        temperature = 0.2,
-        max_tokens = 800,
-        messages = [
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": '%rule%\n' + text_part},
-        ]
-        )
+        try:
+            openai.api_key = "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"
+            response = openai.ChatCompletion.create(
+            model = "gpt-3.5-turbo-16k",
+            temperature = 0.2,
+            max_tokens = 800,
+            messages = [
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": '%rule%\n' + text_part},
+            ]
+            )
+        except Exception as e:
+            print(e)
+            time.sleep(2)
+            openai.api_key = "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"
+            response = openai.ChatCompletion.create(
+            model = "gpt-3.5-turbo-16k",
+            temperature = 0.2,
+            max_tokens = 800,
+            messages = [
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": '%rule%\n' + text_part},
+            ]
+            )
+
 
         result = response['choices'][0]['message']['content']
 

@@ -1,0 +1,2 @@
+(-1, 940240) <<===>> QuestionExp[<<<new_com>>>]
+(940240, 940275) <<===>> SolutionExp[<<<new_com>>>]
