@@ -6,8 +6,8 @@ from transformers import AutoTokenizer, OpenAIGPTDoubleHeadsModel
 tokenizer = AutoTokenizer.from_pretrained("openai-gpt")
 
 PROMPT_FOLDER = 'prompt_generation'
-ROUND_TYPE = 'educ/test'
-ID = 2
+ROUND_TYPE = 'div'
+ID = 0
 with open(f'{PROMPT_FOLDER}/prompt_without_tree.txt', 'r') as fp:
     prompt = fp.read()
 

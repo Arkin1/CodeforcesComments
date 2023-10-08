@@ -1,0 +1,6 @@
+((-1, 946045)) <<===>>FixingExp[<<<new_com>>>]
+((946045, 946102)) <<===>>Irrelevant[<<<new_com>>>]
+((946102, 946151)) <<===>>SubQuestion[<<<new_com>>>]
+((946151, 946152)) <<===>>FixingExp[<<<new_com>>>]
+((946045, 946137)) <<===>>FixingExp[<<<new_com>>>]
+((946137, 946176)) <<===>>Irrelevant[<<<new_com>>>]
