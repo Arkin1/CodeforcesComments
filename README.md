@@ -1,4 +1,4 @@
-# CodeforcesComments
+# CFComments
 
 This repository contains the code as well the datasets associated with the task of predicting relevant and irrelevant comments to a blog post on Codeforces. The dataset contains 19 labelled comment threads(Dataset_educ_1.1.json contains 16 Educational Rounds, Dataset_div2_final contains 3 Div Rounds) and 1131 unlabelled comment threads(Dataset_unlabelled.json).
 
